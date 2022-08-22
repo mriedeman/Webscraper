@@ -1,0 +1,4 @@
+holidays==0.14.2
+pandas==1.4.3
+selenium==4.4.0
+splinter==0.18.1
