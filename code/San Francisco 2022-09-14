@@ -1,0 +1,38 @@
+city,start_date,end_date,total_price,daily_price,vehicle_class,company_name
+San Francisco,2022-09-26,2022-10-13,1350,79,Wanderer,Lost Campers
+San Francisco,2022-09-26,2022-10-13,1373,76,Minivan,Travellers Autobarn USA
+San Francisco,2022-09-26,2022-10-13,1513,89,Sierra,Lost Campers
+San Francisco,2022-09-26,2022-10-13,1604,94,Hotel Sierra,Lost Campers
+San Francisco,2022-09-26,2022-10-13,1750,102,Moab,Lost Campers
+San Francisco,2022-09-26,2022-10-13,1841,108,Hotel Moab,Lost Campers
+San Francisco,2022-09-26,2022-10-13,2427,142,Cabover Style C22 RV Class C Small,El Monte US
+San Francisco,2022-09-26,2022-10-13,2460,144,Redwood,Lost Campers
+San Francisco,2022-09-26,2022-10-13,2489,146,Class C 23-25ft (M),Road Bear
+San Francisco,2022-09-26,2022-10-13,2516,148,Cabover Style C25 RV Class C Medium,El Monte US
+San Francisco,2022-09-26,2022-10-13,2517,148,Class B 21ft (K),Road Bear
+San Francisco,2022-09-26,2022-10-13,2533,149,Mavericks,Escape Campervans
+San Francisco,2022-09-26,2022-10-13,2597,152,Class C 26-28ft (P),Road Bear
+San Francisco,2022-09-26,2022-10-13,2626,145,HiTop,Travellers Autobarn USA
+San Francisco,2022-09-26,2022-10-13,2713,159,Class C 29-31ft (R),Road Bear
+San Francisco,2022-09-26,2022-10-13,2717,159,Cabover Style C28 RV Class C Large,El Monte US
+San Francisco,2022-09-26,2022-10-13,2746,152,Kuga,Travellers Autobarn USA
+San Francisco,2022-09-26,2022-10-13,3044,179,Big Sur,Escape Campervans
+San Francisco,2022-09-26,2022-10-13,3069,180,Cabover Style FS31 Slide-out RV Class C Family Sleeper,El Monte US
+San Francisco,2022-09-26,2022-10-13,3479,204,Jeep Camper,Escape Campervans
+San Francisco,2022-09-26,2022-10-13,3584,210,Slideout AF33 Family Sleeper RV,El Monte US
+San Francisco,2022-09-26,2022-10-13,3863,227,C30 Large Motorhome,Cruise America
+San Francisco,2022-09-26,2022-10-13,3978,234,4 Berth Motorhome,Britz US
+San Francisco,2022-09-26,2022-10-13,4040,237,Class A 30-32ft (U),Road Bear
+San Francisco,2022-09-26,2022-10-13,4125,242,C19 Compact Motorhome,Cruise America
+San Francisco,2022-09-26,2022-10-13,4209,247,Mighty Camper M28 Class C Large,Mighty US
+San Francisco,2022-09-26,2022-10-13,4260,250,Santa Cruz,Escape Campervans
+San Francisco,2022-09-26,2022-10-13,4523,266,C25 Standard Motorhome,Cruise America
+San Francisco,2022-09-26,2022-10-13,4546,267,C21 Compact Plus Motorhome,Cruise America
+San Francisco,2022-09-26,2022-10-13,4789,281,Cabover Style C22 RV Class C Small,El Monte US
+San Francisco,2022-09-26,2022-10-13,4793,281,Cabover Style C25 RV Class C Medium,El Monte US
+San Francisco,2022-09-26,2022-10-13,4797,282,Cabover Style C28 RV Class C Large,El Monte US
+San Francisco,2022-09-26,2022-10-13,5500,323,Cabover Style FS31 Slide-out RV Class C Family Sleeper,El Monte US
+San Francisco,2022-09-26,2022-10-13,5703,335,Mighty Camper M22 Class C Medium,Mighty US
+San Francisco,2022-09-26,2022-10-13,5703,335,Mighty Camper MA33,Mighty US
+San Francisco,2022-09-26,2022-10-13,5865,345,Slideout AF33 Family Sleeper RV,El Monte US
+San Francisco,2022-09-26,2022-10-13,6623,389,Mighty Camper MS31 Class C Family Sleeper,Mighty US
