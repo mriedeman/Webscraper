@@ -175,14 +175,14 @@ for city_index, city in enumerate(cities):
 
     city_results_df = pd.DataFrame(city_results)
 
+
     try: 
-        os.makedirs(f"../Output Data/{url}/{city['city']}")
+        os.makedirs(f"../Output Data/Camper Travel/{city['city']}")
     except FileExistsError:
         pass
 
-    city_results_df.to_csv(f"../Output Data/{url}/{city['city']}/{city['city']} {date.today()} ", index=False)
+    city_results_df.to_csv(f"../Output Data/Camper Travel/{city['city']}/{city['city']} {date.today()}.csv", index=False)
 
-    #city_results_df.to_csv(f"{city['city']} {date.today()} ", index=False)
     print(f"Saved Results of {city['city']} to a csv file.")
 
 
