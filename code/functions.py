@@ -182,6 +182,8 @@ def createDomFilename(site, log=False):
 
 def create_trips(int_stop_date, US):
     for pu_d in allMondays(int_stop_date):
+
+        pu_d += timedelta(14)
         # drop off date is 17 days after today
         do_d = pu_d + timedelta(17)
         # Wed to Wed trips
