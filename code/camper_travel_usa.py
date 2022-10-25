@@ -68,7 +68,7 @@ for city_index, city in enumerate(cities):
     print(f"Collecting Results for {city['city']}")
 
 
-    int_stop_date = date(2022, 9, 30) #turn this into a parameter
+    int_stop_date = date(2023, 4, 30) #turn this into a parameter
 
     US = True if city['country'] == 'USA' else False
     city_results = []
