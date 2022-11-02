@@ -1,0 +1,68 @@
+city,start_date,end_date,total_price,daily_price,vehicle_class,company_name
+San Francisco,2022-12-05,2022-12-22,1078.00,63.41,Station Wagon,Travellers Autobarn
+San Francisco,2022-12-05,2022-12-22,1277.00,75.12,Hitop Campervan,Travellers Autobarn
+San Francisco,2022-12-05,2022-12-22,1346.00,79.18,Kuga Campervan,Travellers Autobarn
+San Francisco,2022-12-05,2022-12-22,1666.00,98.00,Motorhome C25,Road Bear
+San Francisco,2022-12-05,2022-12-22,1717.00,101.00,Campervan B21,Road Bear
+San Francisco,2022-12-05,2022-12-22,1819.00,107.00,Motorhome Standard C25,Cruise
+San Francisco,2022-12-05,2022-12-22,1819.00,107.00,Motorhome Large C30,Cruise
+San Francisco,2022-12-05,2022-12-22,1838.00,108.12,Motorhome C19,Cruise
+San Francisco,2022-12-05,2022-12-22,1853.00,109.00,Motorhome Standard C25,Cruise
+San Francisco,2022-12-05,2022-12-22,1853.00,109.00,Motorhome Large C30,Cruise
+San Francisco,2022-12-05,2022-12-22,1872.00,110.12,Motorhome C19,Cruise
+San Francisco,2022-12-05,2022-12-22,1887.00,111.00,Motorhome C28,Road Bear
+San Francisco,2022-12-05,2022-12-22,2074.00,122.00,Motorhome Compact Plus C21,Cruise
+San Francisco,2022-12-05,2022-12-22,2085.00,122.65,Motorhome M28,Mighty
+San Francisco,2022-12-05,2022-12-22,2108.00,124.00,Motorhome Compact Plus C21,Cruise
+San Francisco,2022-12-05,2022-12-22,2125.00,125.00,C Medium 24-26,Mighty
+San Francisco,2022-12-05,2022-12-22,2125.00,125.00,Motorhome C31,Road Bear
+San Francisco,2022-12-05,2022-12-22,2227.00,131.00,Motorhome Standard C25,Cruise
+San Francisco,2022-12-05,2022-12-22,2227.00,131.00,Motorhome Large C30,Cruise
+San Francisco,2022-12-05,2022-12-22,2246.00,132.12,Motorhome C19,Cruise
+San Francisco,2022-12-05,2022-12-22,2312.00,136.00,Motorhome C22,El Monte
+San Francisco,2022-12-05,2022-12-22,2380.00,140.00,Motorhome C25,El Monte
+San Francisco,2022-12-05,2022-12-22,2380.00,140.00,Motorhome C28,El Monte
+San Francisco,2022-12-05,2022-12-22,2482.00,146.00,Motorhome Compact Plus C21,Cruise
+San Francisco,2022-12-05,2022-12-22,2720.00,160.00,Run of Fleet 20-29ft 2+2,Britz
+San Francisco,2022-12-05,2022-12-22,2806.00,165.06,Motorhome Standard C25,Cruise
+San Francisco,2022-12-05,2022-12-22,2806.00,165.06,Motorhome Large C30,Cruise
+San Francisco,2022-12-05,2022-12-22,2824.00,166.12,Motorhome Standard C25,Cruise
+San Francisco,2022-12-05,2022-12-22,2824.00,166.12,Motorhome Large C30,Cruise
+San Francisco,2022-12-05,2022-12-22,2825.00,166.18,Motorhome C19,Cruise
+San Francisco,2022-12-05,2022-12-22,2843.00,167.24,Motorhome C19,Cruise
+San Francisco,2022-12-05,2022-12-22,2858.00,168.12,Motorhome Standard C25,Cruise
+San Francisco,2022-12-05,2022-12-22,2858.00,168.12,Motorhome Large C30,Cruise
+San Francisco,2022-12-05,2022-12-22,2877.00,169.24,Motorhome C19,Cruise
+San Francisco,2022-12-05,2022-12-22,2941.00,173.00,Motorhome C22,El Monte
+San Francisco,2022-12-05,2022-12-22,3009.00,177.00,Motorhome C25,El Monte
+San Francisco,2022-12-05,2022-12-22,3009.00,177.00,Motorhome C28,El Monte
+San Francisco,2022-12-05,2022-12-22,3061.00,180.06,Motorhome Compact Plus C21,Cruise
+San Francisco,2022-12-05,2022-12-22,3079.00,181.12,Motorhome Compact Plus C21,Cruise
+San Francisco,2022-12-05,2022-12-22,3094.00,182.00,Motorhome MS31,Mighty
+San Francisco,2022-12-05,2022-12-22,3113.00,183.12,Motorhome Compact Plus C21,Cruise
+San Francisco,2022-12-05,2022-12-22,3161.00,185.94,Motorhome Standard C25,Cruise
+San Francisco,2022-12-05,2022-12-22,3161.00,185.94,Motorhome Large C30,Cruise
+San Francisco,2022-12-05,2022-12-22,3180.00,187.06,Motorhome C19,Cruise
+San Francisco,2022-12-05,2022-12-22,3196.00,188.00,Motorhome FS31,El Monte
+San Francisco,2022-12-05,2022-12-22,3264.00,192.00,Motorhome A32,Road Bear
+San Francisco,2022-12-05,2022-12-22,3377.00,198.65,Motorhome M28,Mighty
+San Francisco,2022-12-05,2022-12-22,3416.00,200.94,Motorhome Compact Plus C21,Cruise
+San Francisco,2022-12-05,2022-12-22,3417.00,201.00,C Medium 24-26,Mighty
+San Francisco,2022-12-05,2022-12-22,3502.00,206.00,Motorhome C25,Road Bear
+San Francisco,2022-12-05,2022-12-22,3519.00,207.00,Motorhome Standard C25,Cruise
+San Francisco,2022-12-05,2022-12-22,3519.00,207.00,Motorhome Large C30,Cruise
+San Francisco,2022-12-05,2022-12-22,3536.00,208.00,Motorhome AF33,El Monte
+San Francisco,2022-12-05,2022-12-22,3538.00,208.12,Motorhome C19,Cruise
+San Francisco,2022-12-05,2022-12-22,3553.00,209.00,Campervan B21,Road Bear
+San Francisco,2022-12-05,2022-12-22,3604.00,212.00,Motorhome C22,El Monte
+San Francisco,2022-12-05,2022-12-22,3672.00,216.00,Motorhome C25,El Monte
+San Francisco,2022-12-05,2022-12-22,3672.00,216.00,Motorhome C28,El Monte
+San Francisco,2022-12-05,2022-12-22,3723.00,219.00,Motorhome C28,Road Bear
+San Francisco,2022-12-05,2022-12-22,3774.00,222.00,Motorhome Compact Plus C21,Cruise
+San Francisco,2022-12-05,2022-12-22,3825.00,225.00,Motorhome FS31,El Monte
+San Francisco,2022-12-05,2022-12-22,3961.00,233.00,Motorhome C31,Road Bear
+San Francisco,2022-12-05,2022-12-22,4165.00,245.00,Motorhome AF33,El Monte
+San Francisco,2022-12-05,2022-12-22,4386.00,258.00,Motorhome MS31,Mighty
+San Francisco,2022-12-05,2022-12-22,4488.00,264.00,Motorhome FS31,El Monte
+San Francisco,2022-12-05,2022-12-22,4828.00,284.00,Motorhome AF33,El Monte
+San Francisco,2022-12-05,2022-12-22,5100.00,300.00,Motorhome A32,Road Bear

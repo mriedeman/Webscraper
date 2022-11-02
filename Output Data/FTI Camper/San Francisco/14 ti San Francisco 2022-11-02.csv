@@ -1,0 +1,68 @@
+city,start_date,end_date,total_price,daily_price,vehicle_class,company_name
+San Francisco,2023-02-27,2023-03-16,1091.00,64.18,Station Wagon,Travellers Autobarn
+San Francisco,2023-02-27,2023-03-16,1394.00,82.00,Motorhome Standard C25,Cruise
+San Francisco,2023-02-27,2023-03-16,1428.00,84.00,Motorhome Standard C25,Cruise
+San Francisco,2023-02-27,2023-03-16,1479.00,87.00,Motorhome Large C30,Cruise
+San Francisco,2023-02-27,2023-03-16,1513.00,89.00,Motorhome Large C30,Cruise
+San Francisco,2023-02-27,2023-03-16,1666.00,98.00,Motorhome C25,Road Bear
+San Francisco,2023-02-27,2023-03-16,1703.00,100.18,Hitop Campervan,Travellers Autobarn
+San Francisco,2023-02-27,2023-03-16,1717.00,101.00,Campervan B21,Road Bear
+San Francisco,2023-02-27,2023-03-16,1775.00,104.41,Kuga Campervan,Travellers Autobarn
+San Francisco,2023-02-27,2023-03-16,1802.00,106.00,Motorhome Standard C25,Cruise
+San Francisco,2023-02-27,2023-03-16,1819.00,107.00,Motorhome C19,Cruise
+San Francisco,2023-02-27,2023-03-16,1819.00,107.00,Motorhome Compact Plus C21,Cruise
+San Francisco,2023-02-27,2023-03-16,1853.00,109.00,C Medium 24-26,Mighty
+San Francisco,2023-02-27,2023-03-16,1853.00,109.00,Motorhome C19,Cruise
+San Francisco,2023-02-27,2023-03-16,1853.00,109.00,Motorhome Compact Plus C21,Cruise
+San Francisco,2023-02-27,2023-03-16,1887.00,111.00,Motorhome Large C30,Cruise
+San Francisco,2023-02-27,2023-03-16,1887.00,111.00,Motorhome C28,Road Bear
+San Francisco,2023-02-27,2023-03-16,1921.00,113.00,Motorhome C22,El Monte
+San Francisco,2023-02-27,2023-03-16,1989.00,117.00,Motorhome M28,Mighty
+San Francisco,2023-02-27,2023-03-16,1989.00,117.00,Motorhome C25,El Monte
+San Francisco,2023-02-27,2023-03-16,2057.00,121.00,Motorhome C28,El Monte
+San Francisco,2023-02-27,2023-03-16,2125.00,125.00,Motorhome C31,Road Bear
+San Francisco,2023-02-27,2023-03-16,2227.00,131.00,Motorhome C19,Cruise
+San Francisco,2023-02-27,2023-03-16,2227.00,131.00,Motorhome Compact Plus C21,Cruise
+San Francisco,2023-02-27,2023-03-16,2381.00,140.06,Motorhome Standard C25,Cruise
+San Francisco,2023-02-27,2023-03-16,2399.00,141.12,Motorhome Standard C25,Cruise
+San Francisco,2023-02-27,2023-03-16,2433.00,143.12,Motorhome Standard C25,Cruise
+San Francisco,2023-02-27,2023-03-16,2466.00,145.06,Motorhome Large C30,Cruise
+San Francisco,2023-02-27,2023-03-16,2484.00,146.12,Motorhome Large C30,Cruise
+San Francisco,2023-02-27,2023-03-16,2518.00,148.12,Motorhome Large C30,Cruise
+San Francisco,2023-02-27,2023-03-16,2550.00,150.00,Motorhome C22,El Monte
+San Francisco,2023-02-27,2023-03-16,2618.00,154.00,Motorhome C25,El Monte
+San Francisco,2023-02-27,2023-03-16,2686.00,158.00,Motorhome C28,El Monte
+San Francisco,2023-02-27,2023-03-16,2720.00,160.00,Run of Fleet 20-29ft 2+2,Britz
+San Francisco,2023-02-27,2023-03-16,2736.00,160.94,Motorhome Standard C25,Cruise
+San Francisco,2023-02-27,2023-03-16,2754.00,162.00,Motorhome MS31,Mighty
+San Francisco,2023-02-27,2023-03-16,2806.00,165.06,Motorhome C19,Cruise
+San Francisco,2023-02-27,2023-03-16,2806.00,165.06,Motorhome Compact Plus C21,Cruise
+San Francisco,2023-02-27,2023-03-16,2821.00,165.94,Motorhome Large C30,Cruise
+San Francisco,2023-02-27,2023-03-16,2824.00,166.12,Motorhome C19,Cruise
+San Francisco,2023-02-27,2023-03-16,2824.00,166.12,Motorhome Compact Plus C21,Cruise
+San Francisco,2023-02-27,2023-03-16,2858.00,168.12,Motorhome C19,Cruise
+San Francisco,2023-02-27,2023-03-16,2858.00,168.12,Motorhome Compact Plus C21,Cruise
+San Francisco,2023-02-27,2023-03-16,2873.00,169.00,Motorhome FS31,El Monte
+San Francisco,2023-02-27,2023-03-16,3094.00,182.00,Motorhome Standard C25,Cruise
+San Francisco,2023-02-27,2023-03-16,3145.00,185.00,C Medium 24-26,Mighty
+San Francisco,2023-02-27,2023-03-16,3161.00,185.94,Motorhome C19,Cruise
+San Francisco,2023-02-27,2023-03-16,3161.00,185.94,Motorhome Compact Plus C21,Cruise
+San Francisco,2023-02-27,2023-03-16,3179.00,187.00,Motorhome Large C30,Cruise
+San Francisco,2023-02-27,2023-03-16,3213.00,189.00,Motorhome C22,El Monte
+San Francisco,2023-02-27,2023-03-16,3264.00,192.00,Motorhome A32,Road Bear
+San Francisco,2023-02-27,2023-03-16,3281.00,193.00,Motorhome M28,Mighty
+San Francisco,2023-02-27,2023-03-16,3281.00,193.00,Motorhome C25,El Monte
+San Francisco,2023-02-27,2023-03-16,3349.00,197.00,Motorhome C28,El Monte
+San Francisco,2023-02-27,2023-03-16,3502.00,206.00,Motorhome FS31,El Monte
+San Francisco,2023-02-27,2023-03-16,3502.00,206.00,Motorhome C25,Road Bear
+San Francisco,2023-02-27,2023-03-16,3519.00,207.00,Motorhome C19,Cruise
+San Francisco,2023-02-27,2023-03-16,3519.00,207.00,Motorhome Compact Plus C21,Cruise
+San Francisco,2023-02-27,2023-03-16,3536.00,208.00,Motorhome AF33,El Monte
+San Francisco,2023-02-27,2023-03-16,3553.00,209.00,Campervan B21,Road Bear
+San Francisco,2023-02-27,2023-03-16,3723.00,219.00,Motorhome C28,Road Bear
+San Francisco,2023-02-27,2023-03-16,3961.00,233.00,Motorhome C31,Road Bear
+San Francisco,2023-02-27,2023-03-16,4046.00,238.00,Motorhome MS31,Mighty
+San Francisco,2023-02-27,2023-03-16,4165.00,245.00,Motorhome AF33,El Monte
+San Francisco,2023-02-27,2023-03-16,4165.00,245.00,Motorhome FS31,El Monte
+San Francisco,2023-02-27,2023-03-16,4828.00,284.00,Motorhome AF33,El Monte
+San Francisco,2023-02-27,2023-03-16,5100.00,300.00,Motorhome A32,Road Bear
