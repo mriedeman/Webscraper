@@ -1,0 +1,33 @@
+city,start_date,end_date,total_price,daily_price,vehicle_class,company_name
+Seattle,2023-01-09,2023-01-26,1564.00,92.00,Motorhome C19,Cruise
+Seattle,2023-01-09,2023-01-26,1598.00,94.00,Motorhome C19,Cruise
+Seattle,2023-01-09,2023-01-26,1649.00,97.00,Motorhome Standard C25,Cruise
+Seattle,2023-01-09,2023-01-26,1683.00,99.00,Motorhome Standard C25,Cruise
+Seattle,2023-01-09,2023-01-26,1734.00,102.00,Motorhome Compact Plus C21,Cruise
+Seattle,2023-01-09,2023-01-26,1734.00,102.00,Motorhome Large C30,Cruise
+Seattle,2023-01-09,2023-01-26,1768.00,104.00,Motorhome Compact Plus C21,Cruise
+Seattle,2023-01-09,2023-01-26,1768.00,104.00,Motorhome Large C30,Cruise
+Seattle,2023-01-09,2023-01-26,1972.00,116.00,Motorhome C19,Cruise
+Seattle,2023-01-09,2023-01-26,2057.00,121.00,Motorhome Standard C25,Cruise
+Seattle,2023-01-09,2023-01-26,2142.00,126.00,Motorhome Compact Plus C21,Cruise
+Seattle,2023-01-09,2023-01-26,2142.00,126.00,Motorhome Large C30,Cruise
+Seattle,2023-01-09,2023-01-26,2551.00,150.06,Motorhome C19,Cruise
+Seattle,2023-01-09,2023-01-26,2569.00,151.12,Motorhome C19,Cruise
+Seattle,2023-01-09,2023-01-26,2603.00,153.12,Motorhome C19,Cruise
+Seattle,2023-01-09,2023-01-26,2636.00,155.06,Motorhome Standard C25,Cruise
+Seattle,2023-01-09,2023-01-26,2654.00,156.12,Motorhome Standard C25,Cruise
+Seattle,2023-01-09,2023-01-26,2688.00,158.12,Motorhome Standard C25,Cruise
+Seattle,2023-01-09,2023-01-26,2721.00,160.06,Motorhome Compact Plus C21,Cruise
+Seattle,2023-01-09,2023-01-26,2721.00,160.06,Motorhome Large C30,Cruise
+Seattle,2023-01-09,2023-01-26,2739.00,161.12,Motorhome Compact Plus C21,Cruise
+Seattle,2023-01-09,2023-01-26,2739.00,161.12,Motorhome Large C30,Cruise
+Seattle,2023-01-09,2023-01-26,2773.00,163.12,Motorhome Compact Plus C21,Cruise
+Seattle,2023-01-09,2023-01-26,2773.00,163.12,Motorhome Large C30,Cruise
+Seattle,2023-01-09,2023-01-26,2906.00,170.94,Motorhome C19,Cruise
+Seattle,2023-01-09,2023-01-26,2991.00,175.94,Motorhome Standard C25,Cruise
+Seattle,2023-01-09,2023-01-26,3076.00,180.94,Motorhome Compact Plus C21,Cruise
+Seattle,2023-01-09,2023-01-26,3076.00,180.94,Motorhome Large C30,Cruise
+Seattle,2023-01-09,2023-01-26,3264.00,192.00,Motorhome C19,Cruise
+Seattle,2023-01-09,2023-01-26,3349.00,197.00,Motorhome Standard C25,Cruise
+Seattle,2023-01-09,2023-01-26,3434.00,202.00,Motorhome Compact Plus C21,Cruise
+Seattle,2023-01-09,2023-01-26,3434.00,202.00,Motorhome Large C30,Cruise

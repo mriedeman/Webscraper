@@ -1,0 +1,6 @@
+city,start_date,end_date,total_price,daily_price,vehicle_class,company_name
+Seattle,2022-12-19,2023-01-05,1409.00,82.88,Motorhome Standard C25,Cruise
+Seattle,2022-12-19,2023-01-05,1443.00,84.88,Motorhome Standard C25,Cruise
+Seattle,2022-12-19,2023-01-05,1574.00,92.59,Motorhome Large C30,Cruise
+Seattle,2022-12-19,2023-01-05,1608.00,94.59,Motorhome Large C30,Cruise
+Seattle,2022-12-19,2023-01-05,1654.00,97.29,Motorhome Compact Plus C21,Cruise

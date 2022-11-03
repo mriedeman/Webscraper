@@ -1,0 +1,54 @@
+city,start_date,end_date,total_price,daily_price,vehicle_class,company_name
+Los Angeles,2023-02-20,2023-03-09,1649.00,97.00,Motorhome Standard C25,Cruise
+Los Angeles,2023-02-20,2023-03-09,1659.00,97.59,Motorhome C19,Cruise
+Los Angeles,2023-02-20,2023-03-09,1683.00,99.00,Motorhome Standard C25,Cruise
+Los Angeles,2023-02-20,2023-03-09,1693.00,99.59,Motorhome C19,Cruise
+Los Angeles,2023-02-20,2023-03-09,1700.00,100.00,C Medium 24-26,Mighty
+Los Angeles,2023-02-20,2023-03-09,1734.00,102.00,Motorhome Compact Plus C21,Cruise
+Los Angeles,2023-02-20,2023-03-09,1734.00,102.00,Motorhome Large C30,Cruise
+Los Angeles,2023-02-20,2023-03-09,1755.00,103.24,Motorhome C22,El Monte
+Los Angeles,2023-02-20,2023-03-09,1768.00,104.00,Motorhome Compact Plus C21,Cruise
+Los Angeles,2023-02-20,2023-03-09,1768.00,104.00,Motorhome Large C30,Cruise
+Los Angeles,2023-02-20,2023-03-09,1809.00,106.41,Motorhome M28,Mighty
+Los Angeles,2023-02-20,2023-03-09,1809.00,106.41,Motorhome C25,El Monte
+Los Angeles,2023-02-20,2023-03-09,1850.00,108.82,Motorhome C28,El Monte
+Los Angeles,2023-02-20,2023-03-09,2057.00,121.00,Motorhome Standard C25,Cruise
+Los Angeles,2023-02-20,2023-03-09,2067.00,121.59,Motorhome C19,Cruise
+Los Angeles,2023-02-20,2023-03-09,2142.00,126.00,Motorhome Compact Plus C21,Cruise
+Los Angeles,2023-02-20,2023-03-09,2142.00,126.00,Motorhome Large C30,Cruise
+Los Angeles,2023-02-20,2023-03-09,2384.00,140.24,Motorhome C22,El Monte
+Los Angeles,2023-02-20,2023-03-09,2438.00,143.41,Motorhome C25,El Monte
+Los Angeles,2023-02-20,2023-03-09,2476.00,145.65,Motorhome MS31,Mighty
+Los Angeles,2023-02-20,2023-03-09,2479.00,145.82,Motorhome C28,El Monte
+Los Angeles,2023-02-20,2023-03-09,2557.00,150.41,Motorhome FS31,El Monte
+Los Angeles,2023-02-20,2023-03-09,2636.00,155.06,Motorhome Standard C25,Cruise
+Los Angeles,2023-02-20,2023-03-09,2646.00,155.65,Motorhome C19,Cruise
+Los Angeles,2023-02-20,2023-03-09,2654.00,156.12,Motorhome Standard C25,Cruise
+Los Angeles,2023-02-20,2023-03-09,2664.00,156.71,Motorhome C19,Cruise
+Los Angeles,2023-02-20,2023-03-09,2688.00,158.12,Motorhome Standard C25,Cruise
+Los Angeles,2023-02-20,2023-03-09,2698.00,158.71,Motorhome C19,Cruise
+Los Angeles,2023-02-20,2023-03-09,2721.00,160.06,Motorhome Compact Plus C21,Cruise
+Los Angeles,2023-02-20,2023-03-09,2721.00,160.06,Motorhome Large C30,Cruise
+Los Angeles,2023-02-20,2023-03-09,2734.00,160.82,C Medium 24-26,Mighty
+Los Angeles,2023-02-20,2023-03-09,2739.00,161.12,Motorhome Compact Plus C21,Cruise
+Los Angeles,2023-02-20,2023-03-09,2739.00,161.12,Motorhome Large C30,Cruise
+Los Angeles,2023-02-20,2023-03-09,2773.00,163.12,Motorhome Compact Plus C21,Cruise
+Los Angeles,2023-02-20,2023-03-09,2773.00,163.12,Motorhome Large C30,Cruise
+Los Angeles,2023-02-20,2023-03-09,2788.00,164.00,Motorhome C22,El Monte
+Los Angeles,2023-02-20,2023-03-09,2829.00,166.41,Motorhome AF33,El Monte
+Los Angeles,2023-02-20,2023-03-09,2843.00,167.24,Motorhome M28,Mighty
+Los Angeles,2023-02-20,2023-03-09,2843.00,167.24,Motorhome C25,El Monte
+Los Angeles,2023-02-20,2023-03-09,2884.00,169.65,Motorhome C28,El Monte
+Los Angeles,2023-02-20,2023-03-09,2991.00,175.94,Motorhome Standard C25,Cruise
+Los Angeles,2023-02-20,2023-03-09,3001.00,176.53,Motorhome C19,Cruise
+Los Angeles,2023-02-20,2023-03-09,3076.00,180.94,Motorhome Compact Plus C21,Cruise
+Los Angeles,2023-02-20,2023-03-09,3076.00,180.94,Motorhome Large C30,Cruise
+Los Angeles,2023-02-20,2023-03-09,3186.00,187.41,Motorhome FS31,El Monte
+Los Angeles,2023-02-20,2023-03-09,3349.00,197.00,Motorhome Standard C25,Cruise
+Los Angeles,2023-02-20,2023-03-09,3359.00,197.59,Motorhome C19,Cruise
+Los Angeles,2023-02-20,2023-03-09,3434.00,202.00,Motorhome Compact Plus C21,Cruise
+Los Angeles,2023-02-20,2023-03-09,3434.00,202.00,Motorhome Large C30,Cruise
+Los Angeles,2023-02-20,2023-03-09,3458.00,203.41,Motorhome AF33,El Monte
+Los Angeles,2023-02-20,2023-03-09,3509.00,206.41,Motorhome MS31,Mighty
+Los Angeles,2023-02-20,2023-03-09,3591.00,211.24,Motorhome FS31,El Monte
+Los Angeles,2023-02-20,2023-03-09,3863.00,227.24,Motorhome AF33,El Monte
