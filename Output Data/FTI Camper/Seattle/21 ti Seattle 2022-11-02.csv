@@ -1,0 +1,6 @@
+city,start_date,end_date,total_price,daily_price,vehicle_class,company_name
+Seattle,2023-04-17,2023-05-04,1270.00,74.71,C SMALL 21-23,El Monte
+Seattle,2023-04-17,2023-05-04,1272.00,74.82,Motorhome C19,Cruise
+Seattle,2023-04-17,2023-05-04,1301.00,76.53,Motorhome C19,Cruise
+Seattle,2023-04-17,2023-05-04,1327.00,78.06,C MEDIUM 24-26,El Monte
+Seattle,2023-04-17,2023-05-04,1358.00,79.88,C LAGE 27-29,El Monte

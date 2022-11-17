@@ -1,0 +1,48 @@
+city,start_date,end_date,total_price,daily_price,vehicle_class,company_name
+Salt Lake City,2023-03-13,2023-03-30,1629.00,95.82,Motorhome C19,Cruise
+Salt Lake City,2023-03-13,2023-03-30,1629.00,95.82,Motorhome Standard C25,Cruise
+Salt Lake City,2023-03-13,2023-03-30,1663.00,97.82,Motorhome C19,Cruise
+Salt Lake City,2023-03-13,2023-03-30,1663.00,97.82,Motorhome Standard C25,Cruise
+Salt Lake City,2023-03-13,2023-03-30,1714.00,100.82,Motorhome Compact Plus C21,Cruise
+Salt Lake City,2023-03-13,2023-03-30,1714.00,100.82,Motorhome Large C30,Cruise
+Salt Lake City,2023-03-13,2023-03-30,1748.00,102.82,Motorhome Compact Plus C21,Cruise
+Salt Lake City,2023-03-13,2023-03-30,1748.00,102.82,Motorhome Large C30,Cruise
+Salt Lake City,2023-03-13,2023-03-30,2037.00,119.82,Motorhome C19,Cruise
+Salt Lake City,2023-03-13,2023-03-30,2037.00,119.82,Motorhome Standard C25,Cruise
+Salt Lake City,2023-03-13,2023-03-30,2122.00,124.82,Motorhome Compact Plus C21,Cruise
+Salt Lake City,2023-03-13,2023-03-30,2122.00,124.82,Motorhome Large C30,Cruise
+Salt Lake City,2023-03-13,2023-03-30,2258.00,132.82,Motorhome C22,El Monte
+Salt Lake City,2023-03-13,2023-03-30,2326.00,136.82,Motorhome C25,El Monte
+Salt Lake City,2023-03-13,2023-03-30,2389.00,140.53,Motorhome C28,El Monte
+Salt Lake City,2023-03-13,2023-03-30,2616.00,153.88,Motorhome C19,Cruise
+Salt Lake City,2023-03-13,2023-03-30,2616.00,153.88,Motorhome Standard C25,Cruise
+Salt Lake City,2023-03-13,2023-03-30,2634.00,154.94,Motorhome C19,Cruise
+Salt Lake City,2023-03-13,2023-03-30,2634.00,154.94,Motorhome Standard C25,Cruise
+Salt Lake City,2023-03-13,2023-03-30,2668.00,156.94,Motorhome C19,Cruise
+Salt Lake City,2023-03-13,2023-03-30,2668.00,156.94,Motorhome Standard C25,Cruise
+Salt Lake City,2023-03-13,2023-03-30,2701.00,158.88,Motorhome Compact Plus C21,Cruise
+Salt Lake City,2023-03-13,2023-03-30,2701.00,158.88,Motorhome Large C30,Cruise
+Salt Lake City,2023-03-13,2023-03-30,2719.00,159.94,Motorhome Compact Plus C21,Cruise
+Salt Lake City,2023-03-13,2023-03-30,2719.00,159.94,Motorhome Large C30,Cruise
+Salt Lake City,2023-03-13,2023-03-30,2753.00,161.94,Motorhome Compact Plus C21,Cruise
+Salt Lake City,2023-03-13,2023-03-30,2753.00,161.94,Motorhome Large C30,Cruise
+Salt Lake City,2023-03-13,2023-03-30,2887.00,169.82,Motorhome C22,El Monte
+Salt Lake City,2023-03-13,2023-03-30,2955.00,173.82,Motorhome C25,El Monte
+Salt Lake City,2023-03-13,2023-03-30,2971.00,174.76,Motorhome C19,Cruise
+Salt Lake City,2023-03-13,2023-03-30,2971.00,174.76,Motorhome Standard C25,Cruise
+Salt Lake City,2023-03-13,2023-03-30,3018.00,177.53,Motorhome C28,El Monte
+Salt Lake City,2023-03-13,2023-03-30,3056.00,179.76,Motorhome Compact Plus C21,Cruise
+Salt Lake City,2023-03-13,2023-03-30,3056.00,179.76,Motorhome Large C30,Cruise
+Salt Lake City,2023-03-13,2023-03-30,3288.00,193.41,Motorhome FS31,El Monte
+Salt Lake City,2023-03-13,2023-03-30,3329.00,195.82,Motorhome C19,Cruise
+Salt Lake City,2023-03-13,2023-03-30,3329.00,195.82,Motorhome Standard C25,Cruise
+Salt Lake City,2023-03-13,2023-03-30,3414.00,200.82,Motorhome Compact Plus C21,Cruise
+Salt Lake City,2023-03-13,2023-03-30,3414.00,200.82,Motorhome Large C30,Cruise
+Salt Lake City,2023-03-13,2023-03-30,3550.00,208.82,Motorhome C22,El Monte
+Salt Lake City,2023-03-13,2023-03-30,3585.00,210.88,Motorhome AF33,El Monte
+Salt Lake City,2023-03-13,2023-03-30,3618.00,212.82,Motorhome C25,El Monte
+Salt Lake City,2023-03-13,2023-03-30,3681.00,216.53,Motorhome C28,El Monte
+Salt Lake City,2023-03-13,2023-03-30,3917.00,230.41,Motorhome FS31,El Monte
+Salt Lake City,2023-03-13,2023-03-30,4214.00,247.88,Motorhome AF33,El Monte
+Salt Lake City,2023-03-13,2023-03-30,4580.00,269.41,Motorhome FS31,El Monte
+Salt Lake City,2023-03-13,2023-03-30,4877.00,286.88,Motorhome AF33,El Monte

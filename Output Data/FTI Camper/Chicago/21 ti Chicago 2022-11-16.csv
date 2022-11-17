@@ -1,0 +1,53 @@
+city,start_date,end_date,total_price,daily_price,vehicle_class,company_name
+Chicago,2023-05-01,2023-05-18,1185.00,69.71,Motorhome Large C30,Cruise
+Chicago,2023-05-01,2023-05-18,1202.00,70.71,Motorhome Standard C25,Cruise
+Chicago,2023-05-01,2023-05-18,1214.00,71.41,Motorhome Large C30,Cruise
+Chicago,2023-05-01,2023-05-18,1230.00,72.35,Motorhome Standard C25,Cruise
+Chicago,2023-05-01,2023-05-18,1358.00,79.88,C SMALL 21-23,El Monte
+Chicago,2023-05-01,2023-05-18,1416.00,83.29,C MEDIUM 24-26,El Monte
+Chicago,2023-05-01,2023-05-18,1416.00,83.29,C LAGE 27-29,El Monte
+Chicago,2023-05-01,2023-05-18,1568.00,92.24,Motorhome Large C30,Cruise
+Chicago,2023-05-01,2023-05-18,1585.00,93.24,Motorhome Standard C25,Cruise
+Chicago,2023-05-01,2023-05-18,1613.00,94.88,Motorhome Compact Plus C21,Cruise
+Chicago,2023-05-01,2023-05-18,1640.00,96.47,Motorhome C19,Cruise
+Chicago,2023-05-01,2023-05-18,1642.00,96.59,Motorhome Compact Plus C21,Cruise
+Chicago,2023-05-01,2023-05-18,1669.00,98.18,Motorhome C19,Cruise
+Chicago,2023-05-01,2023-05-18,1705.00,100.29,C SMALL 21-23,El Monte
+Chicago,2023-05-01,2023-05-18,1762.00,103.65,C MEDIUM 24-26,El Monte
+Chicago,2023-05-01,2023-05-18,1762.00,103.65,C LAGE 27-29,El Monte
+Chicago,2023-05-01,2023-05-18,2006.00,118.00,Motorhome Compact Plus C21,Cruise
+Chicago,2023-05-01,2023-05-18,2034.00,119.65,Motorhome C19,Cruise
+Chicago,2023-05-01,2023-05-18,2147.00,126.29,Motorhome Large C30,Cruise
+Chicago,2023-05-01,2023-05-18,2164.00,127.29,Motorhome Standard C25,Cruise
+Chicago,2023-05-01,2023-05-18,2190.00,128.82,Motorhome Large C30,Cruise
+Chicago,2023-05-01,2023-05-18,2207.00,129.82,Motorhome Standard C25,Cruise
+Chicago,2023-05-01,2023-05-18,2213.00,130.18,C FAMILY 30-32,El Monte
+Chicago,2023-05-01,2023-05-18,2219.00,130.53,Motorhome Large C30,Cruise
+Chicago,2023-05-01,2023-05-18,2235.00,131.47,Motorhome Standard C25,Cruise
+Chicago,2023-05-01,2023-05-18,2436.00,143.29,C SMALL 21-23,El Monte
+Chicago,2023-05-01,2023-05-18,2493.00,146.65,C MEDIUM 24-26,El Monte
+Chicago,2023-05-01,2023-05-18,2493.00,146.65,C LAGE 27-29,El Monte
+Chicago,2023-05-01,2023-05-18,2522.00,148.35,Motorhome Large C30,Cruise
+Chicago,2023-05-01,2023-05-18,2538.00,149.29,Motorhome Standard C25,Cruise
+Chicago,2023-05-01,2023-05-18,2546.00,149.76,C FAMILY 30-32,El Monte
+Chicago,2023-05-01,2023-05-18,2585.00,152.06,Motorhome Compact Plus C21,Cruise
+Chicago,2023-05-01,2023-05-18,2613.00,153.71,Motorhome C19,Cruise
+Chicago,2023-05-01,2023-05-18,2618.00,154.00,Motorhome Compact Plus C21,Cruise
+Chicago,2023-05-01,2023-05-18,2645.00,155.59,Motorhome C19,Cruise
+Chicago,2023-05-01,2023-05-18,2647.00,155.71,Motorhome Compact Plus C21,Cruise
+Chicago,2023-05-01,2023-05-18,2659.00,156.41,A FAMILY 31-34,El Monte
+Chicago,2023-05-01,2023-05-18,2674.00,157.29,Motorhome C19,Cruise
+Chicago,2023-05-01,2023-05-18,2754.00,162.00,Motorhome Large C30,Cruise
+Chicago,2023-05-01,2023-05-18,2771.00,163.00,Motorhome Standard C25,Cruise
+Chicago,2023-05-01,2023-05-18,2861.00,168.29,C SMALL 21-23,El Monte
+Chicago,2023-05-01,2023-05-18,2918.00,171.65,C MEDIUM 24-26,El Monte
+Chicago,2023-05-01,2023-05-18,2918.00,171.65,C LAGE 27-29,El Monte
+Chicago,2023-05-01,2023-05-18,2950.00,173.53,Motorhome Compact Plus C21,Cruise
+Chicago,2023-05-01,2023-05-18,2977.00,175.12,Motorhome C19,Cruise
+Chicago,2023-05-01,2023-05-18,3006.00,176.82,A FAMILY 31-34,El Monte
+Chicago,2023-05-01,2023-05-18,3202.00,188.35,Motorhome Compact Plus C21,Cruise
+Chicago,2023-05-01,2023-05-18,3230.00,190.00,Motorhome C19,Cruise
+Chicago,2023-05-01,2023-05-18,3277.00,192.76,C FAMILY 30-32,El Monte
+Chicago,2023-05-01,2023-05-18,3702.00,217.76,C FAMILY 30-32,El Monte
+Chicago,2023-05-01,2023-05-18,3737.00,219.82,A FAMILY 31-34,El Monte
+Chicago,2023-05-01,2023-05-18,4162.00,244.82,A FAMILY 31-34,El Monte

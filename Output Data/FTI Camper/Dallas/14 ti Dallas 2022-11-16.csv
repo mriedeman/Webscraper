@@ -1,0 +1,38 @@
+city,start_date,end_date,total_price,daily_price,vehicle_class,company_name
+Dallas,2023-03-13,2023-03-30,2662.00,156.59,Motorhome Large C30,Cruise
+Dallas,2023-03-13,2023-03-30,2696.00,158.59,Motorhome Large C30,Cruise
+Dallas,2023-03-13,2023-03-30,2938.00,172.82,Motorhome Standard C25,Cruise
+Dallas,2023-03-13,2023-03-30,2972.00,174.82,Motorhome Standard C25,Cruise
+Dallas,2023-03-13,2023-03-30,3070.00,180.59,Motorhome Large C30,Cruise
+Dallas,2023-03-13,2023-03-30,3346.00,196.82,Motorhome Standard C25,Cruise
+Dallas,2023-03-13,2023-03-30,3622.00,213.06,Motorhome M28,Mighty
+Dallas,2023-03-13,2023-03-30,3649.00,214.65,Motorhome Large C30,Cruise
+Dallas,2023-03-13,2023-03-30,3667.00,215.71,Motorhome Large C30,Cruise
+Dallas,2023-03-13,2023-03-30,3700.00,217.65,C Medium 24-26,Mighty
+Dallas,2023-03-13,2023-03-30,3701.00,217.71,Motorhome Large C30,Cruise
+Dallas,2023-03-13,2023-03-30,3796.00,223.29,Motorhome C22,El Monte
+Dallas,2023-03-13,2023-03-30,3796.00,223.29,Motorhome C25,El Monte
+Dallas,2023-03-13,2023-03-30,3822.00,224.82,Motorhome C28,El Monte
+Dallas,2023-03-13,2023-03-30,3925.00,230.88,Motorhome Standard C25,Cruise
+Dallas,2023-03-13,2023-03-30,3943.00,231.94,Motorhome Standard C25,Cruise
+Dallas,2023-03-13,2023-03-30,3977.00,233.94,Motorhome Standard C25,Cruise
+Dallas,2023-03-13,2023-03-30,4004.00,235.53,Motorhome Large C30,Cruise
+Dallas,2023-03-13,2023-03-30,4280.00,251.76,Motorhome Standard C25,Cruise
+Dallas,2023-03-13,2023-03-30,4362.00,256.59,Motorhome Large C30,Cruise
+Dallas,2023-03-13,2023-03-30,4425.00,260.29,Motorhome C22,El Monte
+Dallas,2023-03-13,2023-03-30,4425.00,260.29,Motorhome C25,El Monte
+Dallas,2023-03-13,2023-03-30,4451.00,261.82,Motorhome C28,El Monte
+Dallas,2023-03-13,2023-03-30,4485.00,263.82,Motorhome MS31,Mighty
+Dallas,2023-03-13,2023-03-30,4638.00,272.82,Motorhome Standard C25,Cruise
+Dallas,2023-03-13,2023-03-30,4706.00,276.82,Motorhome FS31,El Monte
+Dallas,2023-03-13,2023-03-30,4914.00,289.06,Motorhome M28,Mighty
+Dallas,2023-03-13,2023-03-30,4927.00,289.82,Motorhome AF33,El Monte
+Dallas,2023-03-13,2023-03-30,4992.00,293.65,C Medium 24-26,Mighty
+Dallas,2023-03-13,2023-03-30,5088.00,299.29,Motorhome C22,El Monte
+Dallas,2023-03-13,2023-03-30,5088.00,299.29,Motorhome C25,El Monte
+Dallas,2023-03-13,2023-03-30,5114.00,300.82,Motorhome C28,El Monte
+Dallas,2023-03-13,2023-03-30,5335.00,313.82,Motorhome FS31,El Monte
+Dallas,2023-03-13,2023-03-30,5556.00,326.82,Motorhome AF33,El Monte
+Dallas,2023-03-13,2023-03-30,5777.00,339.82,Motorhome MS31,Mighty
+Dallas,2023-03-13,2023-03-30,5998.00,352.82,Motorhome FS31,El Monte
+Dallas,2023-03-13,2023-03-30,6219.00,365.82,Motorhome AF33,El Monte

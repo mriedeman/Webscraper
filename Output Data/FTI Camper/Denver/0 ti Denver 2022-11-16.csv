@@ -1,0 +1,48 @@
+city,start_date,end_date,total_price,daily_price,vehicle_class,company_name
+Denver,2022-12-05,2022-12-22,1564.00,92.00,Motorhome C19,Cruise
+Denver,2022-12-05,2022-12-22,1598.00,94.00,Motorhome C19,Cruise
+Denver,2022-12-05,2022-12-22,1649.00,97.00,Motorhome Standard C25,Cruise
+Denver,2022-12-05,2022-12-22,1683.00,99.00,Motorhome Standard C25,Cruise
+Denver,2022-12-05,2022-12-22,1972.00,116.00,Motorhome C19,Cruise
+Denver,2022-12-05,2022-12-22,1989.00,117.00,Motorhome Compact Plus C21,Cruise
+Denver,2022-12-05,2022-12-22,1989.00,117.00,Motorhome Large C30,Cruise
+Denver,2022-12-05,2022-12-22,2023.00,119.00,Motorhome Compact Plus C21,Cruise
+Denver,2022-12-05,2022-12-22,2023.00,119.00,Motorhome Large C30,Cruise
+Denver,2022-12-05,2022-12-22,2057.00,121.00,Motorhome Standard C25,Cruise
+Denver,2022-12-05,2022-12-22,2193.00,129.00,Motorhome C22,El Monte
+Denver,2022-12-05,2022-12-22,2261.00,133.00,Motorhome C25,El Monte
+Denver,2022-12-05,2022-12-22,2397.00,141.00,Motorhome Compact Plus C21,Cruise
+Denver,2022-12-05,2022-12-22,2397.00,141.00,Motorhome Large C30,Cruise
+Denver,2022-12-05,2022-12-22,2551.00,150.06,Motorhome C19,Cruise
+Denver,2022-12-05,2022-12-22,2569.00,151.12,Motorhome C19,Cruise
+Denver,2022-12-05,2022-12-22,2584.00,152.00,Motorhome C28,El Monte
+Denver,2022-12-05,2022-12-22,2603.00,153.12,Motorhome C19,Cruise
+Denver,2022-12-05,2022-12-22,2636.00,155.06,Motorhome Standard C25,Cruise
+Denver,2022-12-05,2022-12-22,2654.00,156.12,Motorhome Standard C25,Cruise
+Denver,2022-12-05,2022-12-22,2688.00,158.12,Motorhome Standard C25,Cruise
+Denver,2022-12-05,2022-12-22,2822.00,166.00,Motorhome C22,El Monte
+Denver,2022-12-05,2022-12-22,2890.00,170.00,Motorhome C25,El Monte
+Denver,2022-12-05,2022-12-22,2906.00,170.94,Motorhome C19,Cruise
+Denver,2022-12-05,2022-12-22,2976.00,175.06,Motorhome Compact Plus C21,Cruise
+Denver,2022-12-05,2022-12-22,2976.00,175.06,Motorhome Large C30,Cruise
+Denver,2022-12-05,2022-12-22,2991.00,175.94,Motorhome Standard C25,Cruise
+Denver,2022-12-05,2022-12-22,2994.00,176.12,Motorhome Compact Plus C21,Cruise
+Denver,2022-12-05,2022-12-22,2994.00,176.12,Motorhome Large C30,Cruise
+Denver,2022-12-05,2022-12-22,3028.00,178.12,Motorhome Compact Plus C21,Cruise
+Denver,2022-12-05,2022-12-22,3028.00,178.12,Motorhome Large C30,Cruise
+Denver,2022-12-05,2022-12-22,3213.00,189.00,Motorhome C28,El Monte
+Denver,2022-12-05,2022-12-22,3264.00,192.00,Motorhome C19,Cruise
+Denver,2022-12-05,2022-12-22,3331.00,195.94,Motorhome Compact Plus C21,Cruise
+Denver,2022-12-05,2022-12-22,3331.00,195.94,Motorhome Large C30,Cruise
+Denver,2022-12-05,2022-12-22,3349.00,197.00,Motorhome Standard C25,Cruise
+Denver,2022-12-05,2022-12-22,3434.00,202.00,Motorhome FS31,El Monte
+Denver,2022-12-05,2022-12-22,3485.00,205.00,Motorhome C22,El Monte
+Denver,2022-12-05,2022-12-22,3553.00,209.00,Motorhome C25,El Monte
+Denver,2022-12-05,2022-12-22,3689.00,217.00,Motorhome Compact Plus C21,Cruise
+Denver,2022-12-05,2022-12-22,3689.00,217.00,Motorhome Large C30,Cruise
+Denver,2022-12-05,2022-12-22,3757.00,221.00,Motorhome AF33,El Monte
+Denver,2022-12-05,2022-12-22,3876.00,228.00,Motorhome C28,El Monte
+Denver,2022-12-05,2022-12-22,4063.00,239.00,Motorhome FS31,El Monte
+Denver,2022-12-05,2022-12-22,4386.00,258.00,Motorhome AF33,El Monte
+Denver,2022-12-05,2022-12-22,4726.00,278.00,Motorhome FS31,El Monte
+Denver,2022-12-05,2022-12-22,5049.00,297.00,Motorhome AF33,El Monte
