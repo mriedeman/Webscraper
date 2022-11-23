@@ -1,0 +1,64 @@
+city,start_date,end_date,total_price,daily_price,vehicle_class,company_name
+Seattle,2023-09-18,2023-10-05,1700.00,100.00,C SMALL 21-23,El Monte
+Seattle,2023-09-18,2023-10-05,1751.00,103.00,C MEDIUM 24-26,El Monte
+Seattle,2023-09-18,2023-10-05,1780.00,104.71,C LAGE 27-29,El Monte
+Seattle,2023-09-18,2023-10-05,2046.00,120.35,C SMALL 21-23,El Monte
+Seattle,2023-09-18,2023-10-05,2091.00,123.00,C MEDIUM 24-26,El Monte
+Seattle,2023-09-18,2023-10-05,2120.00,124.71,Motorhome Large C30,Cruise
+Seattle,2023-09-18,2023-10-05,2120.00,124.71,C LAGE 27-29,El Monte
+Seattle,2023-09-18,2023-10-05,2149.00,126.41,Motorhome Large C30,Cruise
+Seattle,2023-09-18,2023-10-05,2193.00,129.00,Motorhome Standard C25,Cruise
+Seattle,2023-09-18,2023-10-05,2222.00,130.71,Motorhome Standard C25,Cruise
+Seattle,2023-09-18,2023-10-05,2425.00,142.65,C FAMILY 30-32,El Monte
+Seattle,2023-09-18,2023-10-05,2480.00,145.88,Motorhome C19,Cruise
+Seattle,2023-09-18,2023-10-05,2509.00,147.59,Motorhome C19,Cruise
+Seattle,2023-09-18,2023-10-05,2521.00,148.29,Motorhome Compact Plus C21,Cruise
+Seattle,2023-09-18,2023-10-05,2525.00,148.53,Motorhome Large C30,Cruise
+Seattle,2023-09-18,2023-10-05,2550.00,150.00,Motorhome Compact Plus C21,Cruise
+Seattle,2023-09-18,2023-10-05,2599.00,152.88,Motorhome Standard C25,Cruise
+Seattle,2023-09-18,2023-10-05,2715.00,159.71,A FAMILY 31-34,El Monte
+Seattle,2023-09-18,2023-10-05,2766.00,162.71,C FAMILY 30-32,El Monte
+Seattle,2023-09-18,2023-10-05,2777.00,163.35,C SMALL 21-23,El Monte
+Seattle,2023-09-18,2023-10-05,2789.00,164.06,Motorhome C25,Road Bear
+Seattle,2023-09-18,2023-10-05,2822.00,166.00,C MEDIUM 24-26,El Monte
+Seattle,2023-09-18,2023-10-05,2832.00,166.59,Campervan B21,Road Bear
+Seattle,2023-09-18,2023-10-05,2851.00,167.71,C LAGE 27-29,El Monte
+Seattle,2023-09-18,2023-10-05,2893.00,170.18,Motorhome C19,Cruise
+Seattle,2023-09-18,2023-10-05,2935.00,172.65,Motorhome Compact Plus C21,Cruise
+Seattle,2023-09-18,2023-10-05,3062.00,180.12,A FAMILY 31-34,El Monte
+Seattle,2023-09-18,2023-10-05,3104.00,182.59,Motorhome Large C30,Cruise
+Seattle,2023-09-18,2023-10-05,3125.00,183.82,Motorhome Large C30,Cruise
+Seattle,2023-09-18,2023-10-05,3127.00,183.94,Motorhome C28,Road Bear
+Seattle,2023-09-18,2023-10-05,3154.00,185.53,Motorhome Large C30,Cruise
+Seattle,2023-09-18,2023-10-05,3178.00,186.94,Motorhome Standard C25,Cruise
+Seattle,2023-09-18,2023-10-05,3198.00,188.12,Motorhome Standard C25,Cruise
+Seattle,2023-09-18,2023-10-05,3202.00,188.35,C SMALL 21-23,El Monte
+Seattle,2023-09-18,2023-10-05,3227.00,189.82,Motorhome Standard C25,Cruise
+Seattle,2023-09-18,2023-10-05,3247.00,191.00,C MEDIUM 24-26,El Monte
+Seattle,2023-09-18,2023-10-05,3276.00,192.71,C LAGE 27-29,El Monte
+Seattle,2023-09-18,2023-10-05,3440.00,202.35,Motorhome C31,Road Bear
+Seattle,2023-09-18,2023-10-05,3457.00,203.35,Motorhome Large C30,Cruise
+Seattle,2023-09-18,2023-10-05,3472.00,204.24,Motorhome C19,Cruise
+Seattle,2023-09-18,2023-10-05,3485.00,205.00,Motorhome C19,Cruise
+Seattle,2023-09-18,2023-10-05,3497.00,205.71,C FAMILY 30-32,El Monte
+Seattle,2023-09-18,2023-10-05,3514.00,206.71,Motorhome Compact Plus C21,Cruise
+Seattle,2023-09-18,2023-10-05,3514.00,206.71,Motorhome C19,Cruise
+Seattle,2023-09-18,2023-10-05,3526.00,207.41,Motorhome Compact Plus C21,Cruise
+Seattle,2023-09-18,2023-10-05,3530.00,207.65,Motorhome Standard C25,Cruise
+Seattle,2023-09-18,2023-10-05,3555.00,209.12,Motorhome Compact Plus C21,Cruise
+Seattle,2023-09-18,2023-10-05,3733.00,219.59,Motorhome Large C30,Cruise
+Seattle,2023-09-18,2023-10-05,3793.00,223.12,A FAMILY 31-34,El Monte
+Seattle,2023-09-18,2023-10-05,3809.00,224.06,Motorhome Standard C25,Cruise
+Seattle,2023-09-18,2023-10-05,3817.00,224.53,Motorhome C19,Cruise
+Seattle,2023-09-18,2023-10-05,3858.00,226.94,Motorhome Compact Plus C21,Cruise
+Seattle,2023-09-18,2023-10-05,3922.00,230.71,C FAMILY 30-32,El Monte
+Seattle,2023-09-18,2023-10-05,3944.00,232.00,Run of Fleet 20-29ft 2+2,Britz
+Seattle,2023-09-18,2023-10-05,4110.00,241.76,Motorhome C19,Cruise
+Seattle,2023-09-18,2023-10-05,4152.00,244.24,Motorhome Compact Plus C21,Cruise
+Seattle,2023-09-18,2023-10-05,4218.00,248.12,A FAMILY 31-34,El Monte
+Seattle,2023-09-18,2023-10-05,4625.00,272.06,Motorhome C25,Road Bear
+Seattle,2023-09-18,2023-10-05,4668.00,274.59,Campervan B21,Road Bear
+Seattle,2023-09-18,2023-10-05,4963.00,291.94,Motorhome C28,Road Bear
+Seattle,2023-09-18,2023-10-05,5118.00,301.06,Motorhome A32,Road Bear
+Seattle,2023-09-18,2023-10-05,5276.00,310.35,Motorhome C31,Road Bear
+Seattle,2023-09-18,2023-10-05,6954.00,409.06,Motorhome A32,Road Bear

@@ -1,0 +1,73 @@
+city,start_date,end_date,total_price,daily_price,vehicle_class,company_name
+Las Vegas,2023-05-30,2023-06-15,1937.00,113.94,Station Wagon,Travellers Autobarn
+Las Vegas,2023-05-30,2023-06-15,1953.00,114.88,Motorhome Large C30,Cruise
+Las Vegas,2023-05-30,2023-06-15,1982.00,116.59,Motorhome Large C30,Cruise
+Las Vegas,2023-05-30,2023-06-15,2086.00,122.71,Motorhome Standard C25,Cruise
+Las Vegas,2023-05-30,2023-06-15,2115.00,124.41,Motorhome Standard C25,Cruise
+Las Vegas,2023-05-30,2023-06-15,2125.00,125.00,Motorhome C19,Cruise
+Las Vegas,2023-05-30,2023-06-15,2154.00,126.71,Motorhome C19,Cruise
+Las Vegas,2023-05-30,2023-06-15,2354.00,138.47,Motorhome Large C30,Cruise
+Las Vegas,2023-05-30,2023-06-15,2361.00,138.88,C LAGE 27-29,Mighty
+Las Vegas,2023-05-30,2023-06-15,2490.00,146.47,Motorhome Standard C25,Cruise
+Las Vegas,2023-05-30,2023-06-15,2530.00,148.82,Motorhome C19,Cruise
+Las Vegas,2023-05-30,2023-06-15,2549.00,149.94,C MEDIUM 24-26,Mighty
+Las Vegas,2023-05-30,2023-06-15,2571.00,151.24,C SMALL 21-23,El Monte
+Las Vegas,2023-05-30,2023-06-15,2571.00,151.24,C MEDIUM 24-26,El Monte
+Las Vegas,2023-05-30,2023-06-15,2572.00,151.29,Hitop Campervan,Travellers Autobarn
+Las Vegas,2023-05-30,2023-06-15,2593.00,152.53,C LAGE 27-29,El Monte
+Las Vegas,2023-05-30,2023-06-15,2629.00,154.65,Kuga Campervan,Travellers Autobarn
+Las Vegas,2023-05-30,2023-06-15,2669.00,157.00,Motorhome C25,Road Bear
+Las Vegas,2023-05-30,2023-06-15,2686.00,158.00,Campervan B21,Road Bear
+Las Vegas,2023-05-30,2023-06-15,2703.00,159.00,Motorhome C28,Road Bear
+Las Vegas,2023-05-30,2023-06-15,2708.00,159.29,C LAGE 27-29,Mighty
+Las Vegas,2023-05-30,2023-06-15,2754.00,162.00,Motorhome C31,Road Bear
+Las Vegas,2023-05-30,2023-06-15,2896.00,170.35,C MEDIUM 24-26,Mighty
+Las Vegas,2023-05-30,2023-06-15,2918.00,171.65,C SMALL 21-23,El Monte
+Las Vegas,2023-05-30,2023-06-15,2918.00,171.65,C MEDIUM 24-26,El Monte
+Las Vegas,2023-05-30,2023-06-15,2933.00,172.53,Motorhome Large C30,Cruise
+Las Vegas,2023-05-30,2023-06-15,2940.00,172.94,C LAGE 27-29,El Monte
+Las Vegas,2023-05-30,2023-06-15,2958.00,174.00,Motorhome Large C30,Cruise
+Las Vegas,2023-05-30,2023-06-15,2987.00,175.71,Motorhome Large C30,Cruise
+Las Vegas,2023-05-30,2023-06-15,3069.00,180.53,Motorhome Standard C25,Cruise
+Las Vegas,2023-05-30,2023-06-15,3091.00,181.82,Motorhome Standard C25,Cruise
+Las Vegas,2023-05-30,2023-06-15,3109.00,182.88,Motorhome C19,Cruise
+Las Vegas,2023-05-30,2023-06-15,3120.00,183.53,Motorhome Standard C25,Cruise
+Las Vegas,2023-05-30,2023-06-15,3130.00,184.12,Motorhome C19,Cruise
+Las Vegas,2023-05-30,2023-06-15,3159.00,185.82,Motorhome C19,Cruise
+Las Vegas,2023-05-30,2023-06-15,3273.00,192.53,C FAMILY 30-32,El Monte
+Las Vegas,2023-05-30,2023-06-15,3290.00,193.53,Motorhome Large C30,Cruise
+Las Vegas,2023-05-30,2023-06-15,3423.00,201.35,Motorhome Standard C25,Cruise
+Las Vegas,2023-05-30,2023-06-15,3461.00,203.59,A FAMILY 31-34,El Monte
+Las Vegas,2023-05-30,2023-06-15,3462.00,203.65,Motorhome C19,Cruise
+Las Vegas,2023-05-30,2023-06-15,3558.00,209.29,Motorhome Large C30,Cruise
+Las Vegas,2023-05-30,2023-06-15,3620.00,212.94,C FAMILY 30-32,El Monte
+Las Vegas,2023-05-30,2023-06-15,3649.00,214.65,C SMALL 21-23,El Monte
+Las Vegas,2023-05-30,2023-06-15,3649.00,214.65,C MEDIUM 24-26,El Monte
+Las Vegas,2023-05-30,2023-06-15,3671.00,215.94,C LAGE 27-29,El Monte
+Las Vegas,2023-05-30,2023-06-15,3698.00,217.53,Motorhome Standard C25,Cruise
+Las Vegas,2023-05-30,2023-06-15,3738.00,219.88,Motorhome C19,Cruise
+Las Vegas,2023-05-30,2023-06-15,3808.00,224.00,A FAMILY 31-34,El Monte
+Las Vegas,2023-05-30,2023-06-15,3842.00,226.00,Run of Fleet 20-29ft 2+2,Britz
+Las Vegas,2023-05-30,2023-06-15,3864.00,227.29,C LAGE 27-29,Mighty
+Las Vegas,2023-05-30,2023-06-15,4052.00,238.35,C MEDIUM 24-26,Mighty
+Las Vegas,2023-05-30,2023-06-15,4074.00,239.65,C SMALL 21-23,El Monte
+Las Vegas,2023-05-30,2023-06-15,4074.00,239.65,C MEDIUM 24-26,El Monte
+Las Vegas,2023-05-30,2023-06-15,4096.00,240.94,C LAGE 27-29,El Monte
+Las Vegas,2023-05-30,2023-06-15,4212.00,247.76,Motorhome Compact Plus C21,Cruise
+Las Vegas,2023-05-30,2023-06-15,4233.00,249.00,Motorhome A32,Road Bear
+Las Vegas,2023-05-30,2023-06-15,4241.00,249.47,Motorhome Compact Plus C21,Cruise
+Las Vegas,2023-05-30,2023-06-15,4351.00,255.94,C FAMILY 30-32,El Monte
+Las Vegas,2023-05-30,2023-06-15,4505.00,265.00,Motorhome C25,Road Bear
+Las Vegas,2023-05-30,2023-06-15,4522.00,266.00,Campervan B21,Road Bear
+Las Vegas,2023-05-30,2023-06-15,4539.00,267.00,A FAMILY 31-34,El Monte
+Las Vegas,2023-05-30,2023-06-15,4539.00,267.00,Motorhome C28,Road Bear
+Las Vegas,2023-05-30,2023-06-15,4590.00,270.00,Motorhome C31,Road Bear
+Las Vegas,2023-05-30,2023-06-15,4666.00,274.47,Motorhome Compact Plus C21,Cruise
+Las Vegas,2023-05-30,2023-06-15,4776.00,280.94,C FAMILY 30-32,El Monte
+Las Vegas,2023-05-30,2023-06-15,4964.00,292.00,A FAMILY 31-34,El Monte
+Las Vegas,2023-05-30,2023-06-15,5217.00,306.88,Motorhome Compact Plus C21,Cruise
+Las Vegas,2023-05-30,2023-06-15,5245.00,308.53,Motorhome Compact Plus C21,Cruise
+Las Vegas,2023-05-30,2023-06-15,5246.00,308.59,Motorhome Compact Plus C21,Cruise
+Las Vegas,2023-05-30,2023-06-15,5549.00,326.41,Motorhome Compact Plus C21,Cruise
+Las Vegas,2023-05-30,2023-06-15,5923.00,348.41,Motorhome Compact Plus C21,Cruise
+Las Vegas,2023-05-30,2023-06-15,6069.00,357.00,Motorhome A32,Road Bear

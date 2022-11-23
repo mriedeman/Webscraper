@@ -1,0 +1,53 @@
+city,start_date,end_date,total_price,daily_price,vehicle_class,company_name
+Salt Lake City,2023-10-30,2023-11-16,1633.00,96.06,Motorhome C19,Cruise
+Salt Lake City,2023-10-30,2023-11-16,1633.00,96.06,Motorhome Standard C25,Cruise
+Salt Lake City,2023-10-30,2023-11-16,1633.00,96.06,Motorhome Large C30,Cruise
+Salt Lake City,2023-10-30,2023-11-16,1662.00,97.76,Motorhome C19,Cruise
+Salt Lake City,2023-10-30,2023-11-16,1662.00,97.76,Motorhome Standard C25,Cruise
+Salt Lake City,2023-10-30,2023-11-16,1662.00,97.76,Motorhome Large C30,Cruise
+Salt Lake City,2023-10-30,2023-11-16,1734.00,102.00,Motorhome Compact Plus C21,Cruise
+Salt Lake City,2023-10-30,2023-11-16,1763.00,103.71,Motorhome Compact Plus C21,Cruise
+Salt Lake City,2023-10-30,2023-11-16,1977.00,116.29,C SMALL 21-23,El Monte
+Salt Lake City,2023-10-30,2023-11-16,1984.00,116.71,C MEDIUM 24-26,El Monte
+Salt Lake City,2023-10-30,2023-11-16,1984.00,116.71,C LAGE 27-29,El Monte
+Salt Lake City,2023-10-30,2023-11-16,2027.00,119.24,Motorhome C19,Cruise
+Salt Lake City,2023-10-30,2023-11-16,2027.00,119.24,Motorhome Standard C25,Cruise
+Salt Lake City,2023-10-30,2023-11-16,2027.00,119.24,Motorhome Large C30,Cruise
+Salt Lake City,2023-10-30,2023-11-16,2130.00,125.29,Motorhome Compact Plus C21,Cruise
+Salt Lake City,2023-10-30,2023-11-16,2311.00,135.94,C SMALL 21-23,El Monte
+Salt Lake City,2023-10-30,2023-11-16,2318.00,136.35,C MEDIUM 24-26,El Monte
+Salt Lake City,2023-10-30,2023-11-16,2318.00,136.35,C LAGE 27-29,El Monte
+Salt Lake City,2023-10-30,2023-11-16,2606.00,153.29,Motorhome C19,Cruise
+Salt Lake City,2023-10-30,2023-11-16,2606.00,153.29,Motorhome Standard C25,Cruise
+Salt Lake City,2023-10-30,2023-11-16,2606.00,153.29,Motorhome Large C30,Cruise
+Salt Lake City,2023-10-30,2023-11-16,2638.00,155.18,Motorhome C19,Cruise
+Salt Lake City,2023-10-30,2023-11-16,2638.00,155.18,Motorhome Standard C25,Cruise
+Salt Lake City,2023-10-30,2023-11-16,2638.00,155.18,Motorhome Large C30,Cruise
+Salt Lake City,2023-10-30,2023-11-16,2667.00,156.88,Motorhome C19,Cruise
+Salt Lake City,2023-10-30,2023-11-16,2667.00,156.88,Motorhome Standard C25,Cruise
+Salt Lake City,2023-10-30,2023-11-16,2667.00,156.88,Motorhome Large C30,Cruise
+Salt Lake City,2023-10-30,2023-11-16,2709.00,159.35,Motorhome Compact Plus C21,Cruise
+Salt Lake City,2023-10-30,2023-11-16,2716.00,159.76,C FAMILY 30-32,El Monte
+Salt Lake City,2023-10-30,2023-11-16,2739.00,161.12,Motorhome Compact Plus C21,Cruise
+Salt Lake City,2023-10-30,2023-11-16,2768.00,162.82,Motorhome Compact Plus C21,Cruise
+Salt Lake City,2023-10-30,2023-11-16,2914.00,171.41,A FAMILY 31-34,El Monte
+Salt Lake City,2023-10-30,2023-11-16,2970.00,174.71,Motorhome C19,Cruise
+Salt Lake City,2023-10-30,2023-11-16,2970.00,174.71,Motorhome Standard C25,Cruise
+Salt Lake City,2023-10-30,2023-11-16,2970.00,174.71,Motorhome Large C30,Cruise
+Salt Lake City,2023-10-30,2023-11-16,3042.00,178.94,C SMALL 21-23,El Monte
+Salt Lake City,2023-10-30,2023-11-16,3049.00,179.35,C MEDIUM 24-26,El Monte
+Salt Lake City,2023-10-30,2023-11-16,3049.00,179.35,C LAGE 27-29,El Monte
+Salt Lake City,2023-10-30,2023-11-16,3061.00,180.06,C FAMILY 30-32,El Monte
+Salt Lake City,2023-10-30,2023-11-16,3071.00,180.65,Motorhome Compact Plus C21,Cruise
+Salt Lake City,2023-10-30,2023-11-16,3223.00,189.59,Motorhome C19,Cruise
+Salt Lake City,2023-10-30,2023-11-16,3223.00,189.59,Motorhome Standard C25,Cruise
+Salt Lake City,2023-10-30,2023-11-16,3223.00,189.59,Motorhome Large C30,Cruise
+Salt Lake City,2023-10-30,2023-11-16,3261.00,191.82,A FAMILY 31-34,El Monte
+Salt Lake City,2023-10-30,2023-11-16,3329.00,195.82,Motorhome Compact Plus C21,Cruise
+Salt Lake City,2023-10-30,2023-11-16,3467.00,203.94,C SMALL 21-23,El Monte
+Salt Lake City,2023-10-30,2023-11-16,3474.00,204.35,C MEDIUM 24-26,El Monte
+Salt Lake City,2023-10-30,2023-11-16,3474.00,204.35,C LAGE 27-29,El Monte
+Salt Lake City,2023-10-30,2023-11-16,3792.00,223.06,C FAMILY 30-32,El Monte
+Salt Lake City,2023-10-30,2023-11-16,3992.00,234.82,A FAMILY 31-34,El Monte
+Salt Lake City,2023-10-30,2023-11-16,4217.00,248.06,C FAMILY 30-32,El Monte
+Salt Lake City,2023-10-30,2023-11-16,4417.00,259.82,A FAMILY 31-34,El Monte

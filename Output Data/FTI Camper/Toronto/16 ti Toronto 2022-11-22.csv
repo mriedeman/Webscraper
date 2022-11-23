@@ -1,0 +1,83 @@
+city,start_date,end_date,total_price,daily_price,vehicle_class,company_name
+Toronto,2023-04-03,2023-04-20,998.00,58.71,Motorhome Standard C25,Cruise
+Toronto,2023-04-03,2023-04-20,998.00,58.71,Motorhome Large C30,Cruise
+Toronto,2023-04-03,2023-04-20,1026.00,60.35,Motorhome Standard C25,Cruise
+Toronto,2023-04-03,2023-04-20,1026.00,60.35,Motorhome Large C30,Cruise
+Toronto,2023-04-03,2023-04-20,1070.00,62.94,Motorhome C19,Cruise
+Toronto,2023-04-03,2023-04-20,1099.00,64.65,Motorhome C19,Cruise
+Toronto,2023-04-03,2023-04-20,1128.00,66.35,Motorhome Compact Plus C21,Cruise
+Toronto,2023-04-03,2023-04-20,1156.00,68.00,Motorhome Compact Plus C21,Cruise
+Toronto,2023-04-03,2023-04-20,1224.00,72.00,Motorhome C-Small MH19,Fraserway
+Toronto,2023-04-03,2023-04-20,1326.00,78.00,Motorhome C-Medium MH22,Fraserway
+Toronto,2023-04-03,2023-04-20,1394.00,82.00,Motorhome C-Small MH19,Four Seasons
+Toronto,2023-04-03,2023-04-20,1451.00,85.35,Saver 2,Canadream
+Toronto,2023-04-03,2023-04-20,1451.00,85.35,Saver 2,Canadream
+Toronto,2023-04-03,2023-04-20,1462.00,86.00,Motorhome C-Large Slide-out M25S,Fraserway
+Toronto,2023-04-03,2023-04-20,1462.00,86.00,Motorhome C-XLarge Slide-out M31S,Fraserway
+Toronto,2023-04-03,2023-04-20,1462.00,86.00,Van Conversion,Four Seasons
+Toronto,2023-04-03,2023-04-20,1479.00,87.00,Motorhome Standard C25,Cruise
+Toronto,2023-04-03,2023-04-20,1479.00,87.00,Motorhome Large C30,Cruise
+Toronto,2023-04-03,2023-04-20,1488.00,87.53,Deluxe Van Camper,Canadream
+Toronto,2023-04-03,2023-04-20,1488.00,87.53,Deluxe Van Camper,Canadream
+Toronto,2023-04-03,2023-04-20,1530.00,90.00,Motorhome C-Small MH19,Fraserway
+Toronto,2023-04-03,2023-04-20,1530.00,90.00,Motorhome C-Medium MH22,Four Seasons
+Toronto,2023-04-03,2023-04-20,1532.00,90.12,Maxi Truck Camper,Canadream
+Toronto,2023-04-03,2023-04-20,1532.00,90.12,Maxi Truck Camper,Canadream
+Toronto,2023-04-03,2023-04-20,1540.00,90.59,Saver 4,Canadream
+Toronto,2023-04-03,2023-04-20,1540.00,90.59,Saver 4,Canadream
+Toronto,2023-04-03,2023-04-20,1553.00,91.35,Motorhome C19,Cruise
+Toronto,2023-04-03,2023-04-20,1581.00,93.00,Truck Camper TC,Fraserway
+Toronto,2023-04-03,2023-04-20,1581.00,93.00,Van Conversion,Fraserway
+Toronto,2023-04-03,2023-04-20,1595.00,93.82,Super Van Camper,Canadream
+Toronto,2023-04-03,2023-04-20,1595.00,93.82,Super Van Camper,Canadream
+Toronto,2023-04-03,2023-04-20,1613.00,94.88,Motorhome Compact Plus C21,Cruise
+Toronto,2023-04-03,2023-04-20,1635.00,96.18,Saver 6,Canadream
+Toronto,2023-04-03,2023-04-20,1635.00,96.18,Saver 6,Canadream
+Toronto,2023-04-03,2023-04-20,1666.00,98.00,Motorhome C-Medium MH22,Fraserway
+Toronto,2023-04-03,2023-04-20,1678.00,98.71,Midi Motorhome,Canadream
+Toronto,2023-04-03,2023-04-20,1678.00,98.71,Midi Motorhome,Canadream
+Toronto,2023-04-03,2023-04-20,1683.00,99.00,Motorhome C-Large M25S,Four Seasons
+Toronto,2023-04-03,2023-04-20,1683.00,99.00,Motorhome C-XLarge M31S,Four Seasons
+Toronto,2023-04-03,2023-04-20,1768.00,104.00,Truck Camper Slide-out TCB,Fraserway
+Toronto,2023-04-03,2023-04-20,1803.00,106.06,Maxi Motorhome,Canadream
+Toronto,2023-04-03,2023-04-20,1803.00,106.06,Maxi Motorhome,Canadream
+Toronto,2023-04-03,2023-04-20,1836.00,108.00,Motorhome C-Large Slide-out M25S,Fraserway
+Toronto,2023-04-03,2023-04-20,1836.00,108.00,Motorhome C-XLarge Slide-out M31S,Fraserway
+Toronto,2023-04-03,2023-04-20,1864.00,109.65,Maxi Plus Motorhome,Canadream
+Toronto,2023-04-03,2023-04-20,1864.00,109.65,Maxi Plus Motorhome,Canadream
+Toronto,2023-04-03,2023-04-20,1907.00,112.18,Motorhome Standard C25,Cruise
+Toronto,2023-04-03,2023-04-20,1907.00,112.18,Motorhome Large C30,Cruise
+Toronto,2023-04-03,2023-04-20,1935.00,113.82,Motorhome Standard C25,Cruise
+Toronto,2023-04-03,2023-04-20,1935.00,113.82,Motorhome Large C30,Cruise
+Toronto,2023-04-03,2023-04-20,1979.00,116.41,Motorhome C19,Cruise
+Toronto,2023-04-03,2023-04-20,1991.00,117.12,Motorhome Standard C25,Cruise
+Toronto,2023-04-03,2023-04-20,1991.00,117.12,Motorhome Large C30,Cruise
+Toronto,2023-04-03,2023-04-20,2008.00,118.12,Motorhome C19,Cruise
+Toronto,2023-04-03,2023-04-20,2037.00,119.82,Motorhome Compact Plus C21,Cruise
+Toronto,2023-04-03,2023-04-20,2065.00,121.47,Motorhome C19,Cruise
+Toronto,2023-04-03,2023-04-20,2065.00,121.47,Motorhome Compact Plus C21,Cruise
+Toronto,2023-04-03,2023-04-20,2125.00,125.00,Motorhome Compact Plus C21,Cruise
+Toronto,2023-04-03,2023-04-20,2174.00,127.88,Motorhome Standard C25,Cruise
+Toronto,2023-04-03,2023-04-20,2174.00,127.88,Motorhome Large C30,Cruise
+Toronto,2023-04-03,2023-04-20,2247.00,132.18,Motorhome C19,Cruise
+Toronto,2023-04-03,2023-04-20,2304.00,135.53,Motorhome Compact Plus C21,Cruise
+Toronto,2023-04-03,2023-04-20,2331.00,137.12,Motorhome Standard C25,Cruise
+Toronto,2023-04-03,2023-04-20,2331.00,137.12,Motorhome Large C30,Cruise
+Toronto,2023-04-03,2023-04-20,2346.00,138.00,Motorhome C-Small MH19,Four Seasons
+Toronto,2023-04-03,2023-04-20,2406.00,141.53,Motorhome C19,Cruise
+Toronto,2023-04-03,2023-04-20,2414.00,142.00,Van Conversion,Four Seasons
+Toronto,2023-04-03,2023-04-20,2431.00,143.00,Motorhome C-Small MH19,Fraserway
+Toronto,2023-04-03,2023-04-20,2467.00,145.12,Motorhome Compact Plus C21,Cruise
+Toronto,2023-04-03,2023-04-20,2482.00,146.00,Motorhome C-Medium MH22,Four Seasons
+Toronto,2023-04-03,2023-04-20,2533.00,149.00,Motorhome C-Medium MH22,Fraserway
+Toronto,2023-04-03,2023-04-20,2635.00,155.00,Motorhome C-Large M25S,Four Seasons
+Toronto,2023-04-03,2023-04-20,2635.00,155.00,Motorhome C-XLarge M31S,Four Seasons
+Toronto,2023-04-03,2023-04-20,2669.00,157.00,Motorhome C-Large Slide-out M25S,Fraserway
+Toronto,2023-04-03,2023-04-20,2669.00,157.00,Motorhome C-XLarge Slide-out M31S,Fraserway
+Toronto,2023-04-03,2023-04-20,2737.00,161.00,Motorhome C-Small MH19,Fraserway
+Toronto,2023-04-03,2023-04-20,2788.00,164.00,Truck Camper TC,Fraserway
+Toronto,2023-04-03,2023-04-20,2788.00,164.00,Van Conversion,Fraserway
+Toronto,2023-04-03,2023-04-20,2873.00,169.00,Motorhome C-Medium MH22,Fraserway
+Toronto,2023-04-03,2023-04-20,2975.00,175.00,Truck Camper Slide-out TCB,Fraserway
+Toronto,2023-04-03,2023-04-20,3043.00,179.00,Motorhome C-Large Slide-out M25S,Fraserway
+Toronto,2023-04-03,2023-04-20,3043.00,179.00,Motorhome C-XLarge Slide-out M31S,Fraserway

@@ -1,0 +1,6 @@
+city,start_date,end_date,total_price,daily_price,vehicle_class,company_name
+Chicago,2024-01-02,2024-01-18,1201.00,75.06,C SMALL 21-23,El Monte
+Chicago,2024-01-02,2024-01-18,1255.00,78.44,C MEDIUM 24-26,El Monte
+Chicago,2024-01-02,2024-01-18,1354.00,84.63,C LAGE 27-29,El Monte
+Chicago,2024-01-02,2024-01-18,1501.00,93.81,Motorhome Large C30,Cruise
+Chicago,2024-01-02,2024-01-18,1527.00,95.44,C SMALL 21-23,El Monte

@@ -1,0 +1,70 @@
+city,start_date,end_date,total_price,daily_price,vehicle_class,company_name
+Los Angeles,2023-09-18,2023-10-05,1280.00,75.29,Motorhome Standard C25,Cruise
+Los Angeles,2023-09-18,2023-10-05,1309.00,77.00,Motorhome Standard C25,Cruise
+Los Angeles,2023-09-18,2023-10-05,1344.00,79.06,C MEDIUM 24-26,Mighty
+Los Angeles,2023-09-18,2023-10-05,1366.00,80.35,Motorhome Large C30,Cruise
+Los Angeles,2023-09-18,2023-10-05,1395.00,82.06,Motorhome Large C30,Cruise
+Los Angeles,2023-09-18,2023-10-05,1402.00,82.47,C SMALL 21-23,El Monte
+Los Angeles,2023-09-18,2023-10-05,1460.00,85.88,C MEDIUM 24-26,El Monte
+Los Angeles,2023-09-18,2023-10-05,1530.00,90.00,Motorhome C19,Cruise
+Los Angeles,2023-09-18,2023-10-05,1544.00,90.82,C LAGE 27-29,El Monte
+Los Angeles,2023-09-18,2023-10-05,1559.00,91.71,Motorhome C19,Cruise
+Los Angeles,2023-09-18,2023-10-05,1582.00,93.06,C LAGE 27-29,Mighty
+Los Angeles,2023-09-18,2023-10-05,1625.00,95.59,Motorhome Compact Plus C21,Cruise
+Los Angeles,2023-09-18,2023-10-05,1654.00,97.29,Motorhome Compact Plus C21,Cruise
+Los Angeles,2023-09-18,2023-10-05,1665.00,97.94,Motorhome Standard C25,Cruise
+Los Angeles,2023-09-18,2023-10-05,1691.00,99.47,C MEDIUM 24-26,Mighty
+Los Angeles,2023-09-18,2023-10-05,1749.00,102.88,C SMALL 21-23,El Monte
+Los Angeles,2023-09-18,2023-10-05,1754.00,103.18,Motorhome Large C30,Cruise
+Los Angeles,2023-09-18,2023-10-05,1807.00,106.29,C MEDIUM 24-26,El Monte
+Los Angeles,2023-09-18,2023-10-05,1891.00,111.24,C LAGE 27-29,El Monte
+Los Angeles,2023-09-18,2023-10-05,1921.00,113.00,C LAGE 27-29,Mighty
+Los Angeles,2023-09-18,2023-10-05,1921.00,113.00,Motorhome C19,Cruise
+Los Angeles,2023-09-18,2023-10-05,2018.00,118.71,Motorhome Compact Plus C21,Cruise
+Los Angeles,2023-09-18,2023-10-05,2208.00,129.88,C FAMILY 30-32,El Monte
+Los Angeles,2023-09-18,2023-10-05,2244.00,132.00,Motorhome Standard C25,Cruise
+Los Angeles,2023-09-18,2023-10-05,2285.00,134.41,Motorhome Standard C25,Cruise
+Los Angeles,2023-09-18,2023-10-05,2314.00,136.12,Motorhome Standard C25,Cruise
+Los Angeles,2023-09-18,2023-10-05,2333.00,137.24,Motorhome Large C30,Cruise
+Los Angeles,2023-09-18,2023-10-05,2371.00,139.47,Motorhome Large C30,Cruise
+Los Angeles,2023-09-18,2023-10-05,2400.00,141.18,Motorhome Large C30,Cruise
+Los Angeles,2023-09-18,2023-10-05,2480.00,145.88,C SMALL 21-23,El Monte
+Los Angeles,2023-09-18,2023-10-05,2500.00,147.06,Motorhome C19,Cruise
+Los Angeles,2023-09-18,2023-10-05,2535.00,149.12,Motorhome C19,Cruise
+Los Angeles,2023-09-18,2023-10-05,2538.00,149.29,C MEDIUM 24-26,El Monte
+Los Angeles,2023-09-18,2023-10-05,2540.00,149.41,C FAMILY 30-32,El Monte
+Los Angeles,2023-09-18,2023-10-05,2564.00,150.82,Motorhome C19,Cruise
+Los Angeles,2023-09-18,2023-10-05,2597.00,152.76,Motorhome Compact Plus C21,Cruise
+Los Angeles,2023-09-18,2023-10-05,2617.00,153.94,Motorhome Standard C25,Cruise
+Los Angeles,2023-09-18,2023-10-05,2622.00,154.24,C LAGE 27-29,El Monte
+Los Angeles,2023-09-18,2023-10-05,2630.00,154.71,Motorhome Compact Plus C21,Cruise
+Los Angeles,2023-09-18,2023-10-05,2659.00,156.41,A FAMILY 31-34,El Monte
+Los Angeles,2023-09-18,2023-10-05,2659.00,156.41,Motorhome Compact Plus C21,Cruise
+Los Angeles,2023-09-18,2023-10-05,2669.00,157.00,Motorhome C25,Road Bear
+Los Angeles,2023-09-18,2023-10-05,2686.00,158.00,Campervan B21,Road Bear
+Los Angeles,2023-09-18,2023-10-05,2703.00,159.00,Motorhome Large C30,Cruise
+Los Angeles,2023-09-18,2023-10-05,2703.00,159.00,Motorhome C28,Road Bear
+Los Angeles,2023-09-18,2023-10-05,2754.00,162.00,Motorhome C31,Road Bear
+Los Angeles,2023-09-18,2023-10-05,2847.00,167.47,C MEDIUM 24-26,Mighty
+Los Angeles,2023-09-18,2023-10-05,2853.00,167.82,Motorhome Standard C25,Cruise
+Los Angeles,2023-09-18,2023-10-05,2867.00,168.65,Motorhome C19,Cruise
+Los Angeles,2023-09-18,2023-10-05,2905.00,170.88,C SMALL 21-23,El Monte
+Los Angeles,2023-09-18,2023-10-05,2944.00,173.18,Motorhome Large C30,Cruise
+Los Angeles,2023-09-18,2023-10-05,2962.00,174.24,Motorhome Compact Plus C21,Cruise
+Los Angeles,2023-09-18,2023-10-05,2963.00,174.29,C MEDIUM 24-26,El Monte
+Los Angeles,2023-09-18,2023-10-05,3006.00,176.82,A FAMILY 31-34,El Monte
+Los Angeles,2023-09-18,2023-10-05,3047.00,179.24,C LAGE 27-29,El Monte
+Los Angeles,2023-09-18,2023-10-05,3077.00,181.00,C LAGE 27-29,Mighty
+Los Angeles,2023-09-18,2023-10-05,3115.00,183.24,Motorhome C19,Cruise
+Los Angeles,2023-09-18,2023-10-05,3214.00,189.06,Motorhome Compact Plus C21,Cruise
+Los Angeles,2023-09-18,2023-10-05,3271.00,192.41,C FAMILY 30-32,El Monte
+Los Angeles,2023-09-18,2023-10-05,3696.00,217.41,C FAMILY 30-32,El Monte
+Los Angeles,2023-09-18,2023-10-05,3737.00,219.82,A FAMILY 31-34,El Monte
+Los Angeles,2023-09-18,2023-10-05,3842.00,226.00,Run of Fleet 20-29ft 2+2,Britz
+Los Angeles,2023-09-18,2023-10-05,4162.00,244.82,A FAMILY 31-34,El Monte
+Los Angeles,2023-09-18,2023-10-05,4233.00,249.00,Motorhome A32,Road Bear
+Los Angeles,2023-09-18,2023-10-05,4505.00,265.00,Motorhome C25,Road Bear
+Los Angeles,2023-09-18,2023-10-05,4522.00,266.00,Campervan B21,Road Bear
+Los Angeles,2023-09-18,2023-10-05,4539.00,267.00,Motorhome C28,Road Bear
+Los Angeles,2023-09-18,2023-10-05,4590.00,270.00,Motorhome C31,Road Bear
+Los Angeles,2023-09-18,2023-10-05,6069.00,357.00,Motorhome A32,Road Bear

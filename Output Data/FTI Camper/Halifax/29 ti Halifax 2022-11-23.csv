@@ -1,0 +1,55 @@
+city,start_date,end_date,total_price,daily_price,vehicle_class,company_name
+Halifax,2023-07-04,2023-07-20,2516.00,157.25,Van Conversion,Four Seasons
+Halifax,2023-07-04,2023-07-20,2532.00,158.25,Motorhome C-Small MH19,Four Seasons
+Halifax,2023-07-04,2023-07-20,2728.00,170.50,Truck Camper TC,Fraserway
+Halifax,2023-07-04,2023-07-20,2760.00,172.50,Van Conversion,Fraserway
+Halifax,2023-07-04,2023-07-20,2780.00,173.75,Motorhome C-Small MH19,Fraserway
+Halifax,2023-07-04,2023-07-20,2972.00,185.75,Motorhome C-Medium MH22,Four Seasons
+Halifax,2023-07-04,2023-07-20,3148.00,196.75,Truck Camper Slide-out TCB,Fraserway
+Halifax,2023-07-04,2023-07-20,3164.00,197.75,Motorhome C-Large M25S,Four Seasons
+Halifax,2023-07-04,2023-07-20,3268.00,204.25,Motorhome C-Medium MH22,Fraserway
+Halifax,2023-07-04,2023-07-20,3357.00,209.81,Motorhome Standard C25,Cruise
+Halifax,2023-07-04,2023-07-20,3384.00,211.50,Motorhome Standard C25,Cruise
+Halifax,2023-07-04,2023-07-20,3412.00,213.25,Van Conversion,Four Seasons
+Halifax,2023-07-04,2023-07-20,3428.00,214.25,Motorhome C-Small MH19,Four Seasons
+Halifax,2023-07-04,2023-07-20,3488.00,218.00,Motorhome C-Large Slide-out M25S,Fraserway
+Halifax,2023-07-04,2023-07-20,3590.00,224.38,Saver 2,Canadream
+Halifax,2023-07-04,2023-07-20,3590.00,224.38,Saver 2,Canadream
+Halifax,2023-07-04,2023-07-20,3624.00,226.50,Motorhome C-XLarge M31S,Four Seasons
+Halifax,2023-07-04,2023-07-20,3670.00,229.38,Maxi Truck Camper,Canadream
+Halifax,2023-07-04,2023-07-20,3670.00,229.38,Maxi Truck Camper,Canadream
+Halifax,2023-07-04,2023-07-20,3752.00,234.50,Motorhome Large C30,Cruise
+Halifax,2023-07-04,2023-07-20,3779.00,236.19,Motorhome Large C30,Cruise
+Halifax,2023-07-04,2023-07-20,3864.00,241.50,Truck Camper TC,Fraserway
+Halifax,2023-07-04,2023-07-20,3868.00,241.75,Motorhome Standard C25,Cruise
+Halifax,2023-07-04,2023-07-20,3868.00,241.75,Motorhome C-Medium MH22,Four Seasons
+Halifax,2023-07-04,2023-07-20,3896.00,243.50,Van Conversion,Fraserway
+Halifax,2023-07-04,2023-07-20,3916.00,244.75,Motorhome C-Small MH19,Fraserway
+Halifax,2023-07-04,2023-07-20,3964.00,247.75,Deluxe Van Camper,Canadream
+Halifax,2023-07-04,2023-07-20,3964.00,247.75,Deluxe Van Camper,Canadream
+Halifax,2023-07-04,2023-07-20,3988.00,249.25,Motorhome C-XLarge Slide-out M31S,Fraserway
+Halifax,2023-07-04,2023-07-20,4036.00,252.25,Saver 4,Canadream
+Halifax,2023-07-04,2023-07-20,4036.00,252.25,Saver 4,Canadream
+Halifax,2023-07-04,2023-07-20,4060.00,253.75,Motorhome C-Large M25S,Four Seasons
+Halifax,2023-07-04,2023-07-20,4149.00,259.31,Super Van Camper,Canadream
+Halifax,2023-07-04,2023-07-20,4149.00,259.31,Super Van Camper,Canadream
+Halifax,2023-07-04,2023-07-20,4266.00,266.63,Motorhome Standard C25,Cruise
+Halifax,2023-07-04,2023-07-20,4271.00,266.94,Motorhome Large C30,Cruise
+Halifax,2023-07-04,2023-07-20,4284.00,267.75,Truck Camper Slide-out TCB,Fraserway
+Halifax,2023-07-04,2023-07-20,4293.00,268.31,Motorhome Standard C25,Cruise
+Halifax,2023-07-04,2023-07-20,4380.00,273.75,Motorhome Standard C25,Cruise
+Halifax,2023-07-04,2023-07-20,4404.00,275.25,Motorhome C-Medium MH22,Fraserway
+Halifax,2023-07-04,2023-07-20,4520.00,282.50,Motorhome C-XLarge M31S,Four Seasons
+Halifax,2023-07-04,2023-07-20,4532.00,283.25,Motorhome Standard C25,Cruise
+Halifax,2023-07-04,2023-07-20,4549.00,284.31,Midi Motorhome,Canadream
+Halifax,2023-07-04,2023-07-20,4549.00,284.31,Midi Motorhome,Canadream
+Halifax,2023-07-04,2023-07-20,4624.00,289.00,Motorhome C-Large Slide-out M25S,Fraserway
+Halifax,2023-07-04,2023-07-20,4661.00,291.31,Motorhome Large C30,Cruise
+Halifax,2023-07-04,2023-07-20,4688.00,293.00,Motorhome Large C30,Cruise
+Halifax,2023-07-04,2023-07-20,4726.00,295.38,Motorhome Standard C25,Cruise
+Halifax,2023-07-04,2023-07-20,4768.00,298.00,Maxi Motorhome,Canadream
+Halifax,2023-07-04,2023-07-20,4768.00,298.00,Maxi Motorhome,Canadream
+Halifax,2023-07-04,2023-07-20,4783.00,298.94,Motorhome Large C30,Cruise
+Halifax,2023-07-04,2023-07-20,4927.00,307.94,Motorhome Large C30,Cruise
+Halifax,2023-07-04,2023-07-20,5124.00,320.25,Motorhome C-XLarge Slide-out M31S,Fraserway
+Halifax,2023-07-04,2023-07-20,5138.00,321.13,Motorhome Large C30,Cruise

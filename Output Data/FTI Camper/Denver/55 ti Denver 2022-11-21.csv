@@ -1,0 +1,53 @@
+city,start_date,end_date,total_price,daily_price,vehicle_class,company_name
+Denver,2024-01-02,2024-01-18,1292.00,80.75,Motorhome C19,Cruise
+Denver,2024-01-02,2024-01-18,1292.00,80.75,Motorhome Standard C25,Cruise
+Denver,2024-01-02,2024-01-18,1320.00,82.50,Motorhome C19,Cruise
+Denver,2024-01-02,2024-01-18,1320.00,82.50,Motorhome Standard C25,Cruise
+Denver,2024-01-02,2024-01-18,1374.00,85.88,Motorhome Large C30,Cruise
+Denver,2024-01-02,2024-01-18,1401.00,87.56,Motorhome Large C30,Cruise
+Denver,2024-01-02,2024-01-18,1435.00,89.69,C SMALL 21-23,El Monte
+Denver,2024-01-02,2024-01-18,1489.00,93.06,C MEDIUM 24-26,El Monte
+Denver,2024-01-02,2024-01-18,1537.00,96.06,Motorhome Compact Plus C21,Cruise
+Denver,2024-01-02,2024-01-18,1547.00,96.69,C LAGE 27-29,El Monte
+Denver,2024-01-02,2024-01-18,1564.00,97.75,Motorhome Compact Plus C21,Cruise
+Denver,2024-01-02,2024-01-18,1657.00,103.56,Motorhome C19,Cruise
+Denver,2024-01-02,2024-01-18,1657.00,103.56,Motorhome Standard C25,Cruise
+Denver,2024-01-02,2024-01-18,1740.00,108.75,Motorhome Large C30,Cruise
+Denver,2024-01-02,2024-01-18,1761.00,110.06,C SMALL 21-23,El Monte
+Denver,2024-01-02,2024-01-18,1815.00,113.44,C MEDIUM 24-26,El Monte
+Denver,2024-01-02,2024-01-18,1860.00,116.25,C LAGE 27-29,El Monte
+Denver,2024-01-02,2024-01-18,1908.00,119.25,Motorhome Compact Plus C21,Cruise
+Denver,2024-01-02,2024-01-18,2236.00,139.75,Motorhome C19,Cruise
+Denver,2024-01-02,2024-01-18,2236.00,139.75,Motorhome Standard C25,Cruise
+Denver,2024-01-02,2024-01-18,2256.00,141.00,C FAMILY 30-32,El Monte
+Denver,2024-01-02,2024-01-18,2297.00,143.56,Motorhome C19,Cruise
+Denver,2024-01-02,2024-01-18,2297.00,143.56,Motorhome Standard C25,Cruise
+Denver,2024-01-02,2024-01-18,2319.00,144.94,Motorhome Large C30,Cruise
+Denver,2024-01-02,2024-01-18,2325.00,145.31,Motorhome C19,Cruise
+Denver,2024-01-02,2024-01-18,2325.00,145.31,Motorhome Standard C25,Cruise
+Denver,2024-01-02,2024-01-18,2379.00,148.69,Motorhome Large C30,Cruise
+Denver,2024-01-02,2024-01-18,2406.00,150.38,Motorhome Large C30,Cruise
+Denver,2024-01-02,2024-01-18,2449.00,153.06,C SMALL 21-23,El Monte
+Denver,2024-01-02,2024-01-18,2487.00,155.44,Motorhome Compact Plus C21,Cruise
+Denver,2024-01-02,2024-01-18,2503.00,156.44,C MEDIUM 24-26,El Monte
+Denver,2024-01-02,2024-01-18,2509.00,156.81,A FAMILY 31-34,El Monte
+Denver,2024-01-02,2024-01-18,2542.00,158.88,Motorhome Compact Plus C21,Cruise
+Denver,2024-01-02,2024-01-18,2548.00,159.25,C LAGE 27-29,El Monte
+Denver,2024-01-02,2024-01-18,2569.00,160.56,C FAMILY 30-32,El Monte
+Denver,2024-01-02,2024-01-18,2569.00,160.56,Motorhome Compact Plus C21,Cruise
+Denver,2024-01-02,2024-01-18,2628.00,164.25,Motorhome C19,Cruise
+Denver,2024-01-02,2024-01-18,2628.00,164.25,Motorhome Standard C25,Cruise
+Denver,2024-01-02,2024-01-18,2709.00,169.31,Motorhome Large C30,Cruise
+Denver,2024-01-02,2024-01-18,2777.00,173.56,Motorhome C19,Cruise
+Denver,2024-01-02,2024-01-18,2777.00,173.56,Motorhome Standard C25,Cruise
+Denver,2024-01-02,2024-01-18,2835.00,177.19,A FAMILY 31-34,El Monte
+Denver,2024-01-02,2024-01-18,2849.00,178.06,C SMALL 21-23,El Monte
+Denver,2024-01-02,2024-01-18,2863.00,178.94,Motorhome Large C30,Cruise
+Denver,2024-01-02,2024-01-18,2872.00,179.50,Motorhome Compact Plus C21,Cruise
+Denver,2024-01-02,2024-01-18,2903.00,181.44,C MEDIUM 24-26,El Monte
+Denver,2024-01-02,2024-01-18,2948.00,184.25,C LAGE 27-29,El Monte
+Denver,2024-01-02,2024-01-18,3034.00,189.63,Motorhome Compact Plus C21,Cruise
+Denver,2024-01-02,2024-01-18,3257.00,203.56,C FAMILY 30-32,El Monte
+Denver,2024-01-02,2024-01-18,3523.00,220.19,A FAMILY 31-34,El Monte
+Denver,2024-01-02,2024-01-18,3657.00,228.56,C FAMILY 30-32,El Monte
+Denver,2024-01-02,2024-01-18,3923.00,245.19,A FAMILY 31-34,El Monte

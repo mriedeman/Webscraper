@@ -1,0 +1,99 @@
+city,start_date,end_date,total_price,daily_price,vehicle_class,company_name
+Vancouver,2023-05-23,2023-06-08,1160.00,72.50,Motorhome Large C30,Cruise
+Vancouver,2023-05-23,2023-06-08,1187.00,74.19,Motorhome Large C30,Cruise
+Vancouver,2023-05-23,2023-06-08,1389.00,86.81,Motorhome C-Small MH19,Four Seasons
+Vancouver,2023-05-23,2023-06-08,1407.00,87.94,Van Conversion,Four Seasons
+Vancouver,2023-05-23,2023-06-08,1426.00,89.13,Run of Fleet,Four Seasons
+Vancouver,2023-05-23,2023-06-08,1506.00,94.13,Motorhome C-Small MH19,Fraserway
+Vancouver,2023-05-23,2023-06-08,1520.00,95.00,Motorhome C-Medium MH22,Four Seasons
+Vancouver,2023-05-23,2023-06-08,1619.00,101.19,Motorhome Large C30,Cruise
+Vancouver,2023-05-23,2023-06-08,1628.00,101.75,Saver 2,Canadream
+Vancouver,2023-05-23,2023-06-08,1628.00,101.75,Saver 2,Canadream
+Vancouver,2023-05-23,2023-06-08,1639.00,102.44,Motorhome C-Large M25S,Four Seasons
+Vancouver,2023-05-23,2023-06-08,1660.00,103.75,Motorhome C-Medium MH22,Fraserway
+Vancouver,2023-05-23,2023-06-08,1671.00,104.44,Maxi Truck Camper,Canadream
+Vancouver,2023-05-23,2023-06-08,1671.00,104.44,Maxi Truck Camper,Canadream
+Vancouver,2023-05-23,2023-06-08,1689.00,105.56,Motorhome Standard C25,Cruise
+Vancouver,2023-05-23,2023-06-08,1716.00,107.25,Motorhome Standard C25,Cruise
+Vancouver,2023-05-23,2023-06-08,1731.00,108.19,Motorhome C-XLarge M31S,Four Seasons
+Vancouver,2023-05-23,2023-06-08,1734.00,108.38,Deluxe Van Camper,Canadream
+Vancouver,2023-05-23,2023-06-08,1734.00,108.38,Deluxe Van Camper,Canadream
+Vancouver,2023-05-23,2023-06-08,1746.00,109.13,Saver 4,Canadream
+Vancouver,2023-05-23,2023-06-08,1746.00,109.13,Saver 4,Canadream
+Vancouver,2023-05-23,2023-06-08,1756.00,109.75,Motorhome C-Small MH19,Four Seasons
+Vancouver,2023-05-23,2023-06-08,1783.00,111.44,Van Conversion,Four Seasons
+Vancouver,2023-05-23,2023-06-08,1788.00,111.75,Motorhome C-Large Slide-out M25S,Fraserway
+Vancouver,2023-05-23,2023-06-08,1795.00,112.19,Super Van Camper,Canadream
+Vancouver,2023-05-23,2023-06-08,1795.00,112.19,Super Van Camper,Canadream
+Vancouver,2023-05-23,2023-06-08,1816.00,113.50,Run of Fleet,Four Seasons
+Vancouver,2023-05-23,2023-06-08,1887.00,117.94,Motorhome C-XLarge Slide-out M31S,Fraserway
+Vancouver,2023-05-23,2023-06-08,1905.00,119.06,Midi Motorhome,Canadream
+Vancouver,2023-05-23,2023-06-08,1905.00,119.06,Midi Motorhome,Canadream
+Vancouver,2023-05-23,2023-06-08,1912.00,119.50,Motorhome C-Small MH19,Fraserway
+Vancouver,2023-05-23,2023-06-08,1922.00,120.13,Saver 6,Canadream
+Vancouver,2023-05-23,2023-06-08,1922.00,120.13,Saver 6,Canadream
+Vancouver,2023-05-23,2023-06-08,1933.00,120.81,Motorhome C-Medium MH22,Four Seasons
+Vancouver,2023-05-23,2023-06-08,1948.00,121.75,Van Conversion,Fraserway
+Vancouver,2023-05-23,2023-06-08,1996.00,124.75,Maxi Motorhome,Canadream
+Vancouver,2023-05-23,2023-06-08,1996.00,124.75,Maxi Motorhome,Canadream
+Vancouver,2023-05-23,2023-06-08,2004.00,125.25,Motorhome Compact Plus C21,Cruise
+Vancouver,2023-05-23,2023-06-08,2012.00,125.75,Truck Camper TC,Fraserway
+Vancouver,2023-05-23,2023-06-08,2031.00,126.94,Motorhome Compact Plus C21,Cruise
+Vancouver,2023-05-23,2023-06-08,2069.00,129.31,Motorhome Large C30,Cruise
+Vancouver,2023-05-23,2023-06-08,2086.00,130.38,Maxi Plus Motorhome,Canadream
+Vancouver,2023-05-23,2023-06-08,2086.00,130.38,Maxi Plus Motorhome,Canadream
+Vancouver,2023-05-23,2023-06-08,2093.00,130.81,Motorhome C-Large M25S,Four Seasons
+Vancouver,2023-05-23,2023-06-08,2096.00,131.00,Motorhome Large C30,Cruise
+Vancouver,2023-05-23,2023-06-08,2112.00,132.00,Motorhome C-Medium MH22,Fraserway
+Vancouver,2023-05-23,2023-06-08,2131.00,133.19,Motorhome Large C30,Cruise
+Vancouver,2023-05-23,2023-06-08,2160.00,135.00,Motorhome Standard C25,Cruise
+Vancouver,2023-05-23,2023-06-08,2208.00,138.00,Truck Camper Slide-out TCB,Fraserway
+Vancouver,2023-05-23,2023-06-08,2215.00,138.44,Motorhome C-XLarge M31S,Four Seasons
+Vancouver,2023-05-23,2023-06-08,2269.00,141.81,Motorhome C-Small MH19,Four Seasons
+Vancouver,2023-05-23,2023-06-08,2287.00,142.94,Van Conversion,Four Seasons
+Vancouver,2023-05-23,2023-06-08,2288.00,143.00,Motorhome C-Large Slide-out M25S,Fraserway
+Vancouver,2023-05-23,2023-06-08,2306.00,144.13,Run of Fleet,Four Seasons
+Vancouver,2023-05-23,2023-06-08,2335.00,145.94,Motorhome Large C30,Cruise
+Vancouver,2023-05-23,2023-06-08,2400.00,150.00,Motorhome C-Medium MH22,Four Seasons
+Vancouver,2023-05-23,2023-06-08,2425.00,151.56,Motorhome Large C30,Cruise
+Vancouver,2023-05-23,2023-06-08,2426.00,151.63,Motorhome C-XLarge Slide-out M31S,Fraserway
+Vancouver,2023-05-23,2023-06-08,2483.00,155.19,Motorhome Compact Plus C21,Cruise
+Vancouver,2023-05-23,2023-06-08,2519.00,157.44,Motorhome C-Large M25S,Four Seasons
+Vancouver,2023-05-23,2023-06-08,2598.00,162.38,Motorhome Standard C25,Cruise
+Vancouver,2023-05-23,2023-06-08,2611.00,163.19,Motorhome C-XLarge M31S,Four Seasons
+Vancouver,2023-05-23,2023-06-08,2625.00,164.06,Motorhome Standard C25,Cruise
+Vancouver,2023-05-23,2023-06-08,2626.00,164.13,Motorhome C-Small MH19,Fraserway
+Vancouver,2023-05-23,2023-06-08,2636.00,164.75,Motorhome C-Small MH19,Four Seasons
+Vancouver,2023-05-23,2023-06-08,2663.00,166.44,Van Conversion,Four Seasons
+Vancouver,2023-05-23,2023-06-08,2672.00,167.00,Motorhome Standard C25,Cruise
+Vancouver,2023-05-23,2023-06-08,2689.00,168.06,Motorhome C19,Cruise
+Vancouver,2023-05-23,2023-06-08,2696.00,168.50,Run of Fleet,Four Seasons
+Vancouver,2023-05-23,2023-06-08,2716.00,169.75,Motorhome C19,Cruise
+Vancouver,2023-05-23,2023-06-08,2780.00,173.75,Motorhome C-Medium MH22,Fraserway
+Vancouver,2023-05-23,2023-06-08,2813.00,175.81,Motorhome C-Medium MH22,Four Seasons
+Vancouver,2023-05-23,2023-06-08,2864.00,179.00,Motorhome Standard C25,Cruise
+Vancouver,2023-05-23,2023-06-08,2908.00,181.75,Motorhome C-Large Slide-out M25S,Fraserway
+Vancouver,2023-05-23,2023-06-08,2913.00,182.06,Motorhome Compact Plus C21,Cruise
+Vancouver,2023-05-23,2023-06-08,2940.00,183.75,Motorhome Compact Plus C21,Cruise
+Vancouver,2023-05-23,2023-06-08,2973.00,185.81,Motorhome C-Large M25S,Four Seasons
+Vancouver,2023-05-23,2023-06-08,2978.00,186.13,Motorhome Standard C25,Cruise
+Vancouver,2023-05-23,2023-06-08,2995.00,187.19,Motorhome Compact Plus C21,Cruise
+Vancouver,2023-05-23,2023-06-08,3007.00,187.94,Motorhome C-XLarge Slide-out M31S,Fraserway
+Vancouver,2023-05-23,2023-06-08,3032.00,189.50,Motorhome C-Small MH19,Fraserway
+Vancouver,2023-05-23,2023-06-08,3068.00,191.75,Van Conversion,Fraserway
+Vancouver,2023-05-23,2023-06-08,3095.00,193.44,Motorhome C-XLarge M31S,Four Seasons
+Vancouver,2023-05-23,2023-06-08,3132.00,195.75,Truck Camper TC,Fraserway
+Vancouver,2023-05-23,2023-06-08,3179.00,198.69,Motorhome Compact Plus C21,Cruise
+Vancouver,2023-05-23,2023-06-08,3184.00,199.00,Motorhome C19,Cruise
+Vancouver,2023-05-23,2023-06-08,3232.00,202.00,Motorhome C-Medium MH22,Fraserway
+Vancouver,2023-05-23,2023-06-08,3309.00,206.81,Motorhome Compact Plus C21,Cruise
+Vancouver,2023-05-23,2023-06-08,3328.00,208.00,Truck Camper Slide-out TCB,Fraserway
+Vancouver,2023-05-23,2023-06-08,3367.00,210.44,A30ft Motorhome behindertengerecht,Fraserway
+Vancouver,2023-05-23,2023-06-08,3408.00,213.00,Motorhome C-Large Slide-out M25S,Fraserway
+Vancouver,2023-05-23,2023-06-08,3546.00,221.63,Motorhome C-XLarge Slide-out M31S,Fraserway
+Vancouver,2023-05-23,2023-06-08,3598.00,224.88,Motorhome C19,Cruise
+Vancouver,2023-05-23,2023-06-08,3625.00,226.56,Motorhome C19,Cruise
+Vancouver,2023-05-23,2023-06-08,3696.00,231.00,Motorhome C19,Cruise
+Vancouver,2023-05-23,2023-06-08,3864.00,241.50,Motorhome C19,Cruise
+Vancouver,2023-05-23,2023-06-08,4026.00,251.63,Motorhome C19,Cruise
+Vancouver,2023-05-23,2023-06-08,4487.00,280.44,A30ft Motorhome behindertengerecht,Fraserway

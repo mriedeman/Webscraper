@@ -1,0 +1,34 @@
+city,start_date,end_date,total_price,daily_price,vehicle_class,company_name
+Toronto,2023-02-27,2023-03-16,1156.00,68.00,Motorhome Large C30,Cruise
+Toronto,2023-02-27,2023-03-16,1190.00,70.00,Motorhome Large C30,Cruise
+Toronto,2023-02-27,2023-03-16,1224.00,72.00,Motorhome Standard C25,Cruise
+Toronto,2023-02-27,2023-03-16,1258.00,74.00,Motorhome Standard C25,Cruise
+Toronto,2023-02-27,2023-03-16,1292.00,76.00,Motorhome C19,Cruise
+Toronto,2023-02-27,2023-03-16,1326.00,78.00,Motorhome C19,Cruise
+Toronto,2023-02-27,2023-03-16,1343.00,79.00,Motorhome Compact Plus C21,Cruise
+Toronto,2023-02-27,2023-03-16,1377.00,81.00,Motorhome Compact Plus C21,Cruise
+Toronto,2023-02-27,2023-03-16,1683.00,99.00,Motorhome Large C30,Cruise
+Toronto,2023-02-27,2023-03-16,1751.00,103.00,Motorhome Standard C25,Cruise
+Toronto,2023-02-27,2023-03-16,1819.00,107.00,Motorhome C19,Cruise
+Toronto,2023-02-27,2023-03-16,1870.00,110.00,Motorhome Compact Plus C21,Cruise
+Toronto,2023-02-27,2023-03-16,2011.00,118.29,Motorhome Large C30,Cruise
+Toronto,2023-02-27,2023-03-16,2045.00,120.29,Motorhome Large C30,Cruise
+Toronto,2023-02-27,2023-03-16,2079.00,122.29,Motorhome Standard C25,Cruise
+Toronto,2023-02-27,2023-03-16,2113.00,124.29,Motorhome Standard C25,Cruise
+Toronto,2023-02-27,2023-03-16,2147.00,126.29,Motorhome C19,Cruise
+Toronto,2023-02-27,2023-03-16,2165.00,127.35,Motorhome Large C30,Cruise
+Toronto,2023-02-27,2023-03-16,2181.00,128.29,Motorhome C19,Cruise
+Toronto,2023-02-27,2023-03-16,2198.00,129.29,Motorhome Compact Plus C21,Cruise
+Toronto,2023-02-27,2023-03-16,2232.00,131.29,Motorhome Compact Plus C21,Cruise
+Toronto,2023-02-27,2023-03-16,2233.00,131.35,Motorhome Standard C25,Cruise
+Toronto,2023-02-27,2023-03-16,2270.00,133.53,Motorhome Large C30,Cruise
+Toronto,2023-02-27,2023-03-16,2301.00,135.35,Motorhome C19,Cruise
+Toronto,2023-02-27,2023-03-16,2329.00,137.00,Maxi Motorhome,Canadream
+Toronto,2023-02-27,2023-03-16,2338.00,137.53,Motorhome Standard C25,Cruise
+Toronto,2023-02-27,2023-03-16,2352.00,138.35,Motorhome Compact Plus C21,Cruise
+Toronto,2023-02-27,2023-03-16,2406.00,141.53,Motorhome C19,Cruise
+Toronto,2023-02-27,2023-03-16,2457.00,144.53,Motorhome Compact Plus C21,Cruise
+Toronto,2023-02-27,2023-03-16,2601.00,153.00,Motorhome Large C30,Cruise
+Toronto,2023-02-27,2023-03-16,2669.00,157.00,Motorhome Standard C25,Cruise
+Toronto,2023-02-27,2023-03-16,2737.00,161.00,Motorhome C19,Cruise
+Toronto,2023-02-27,2023-03-16,2788.00,164.00,Motorhome Compact Plus C21,Cruise

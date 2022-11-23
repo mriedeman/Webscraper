@@ -1,0 +1,64 @@
+city,start_date,end_date,total_price,daily_price,vehicle_class,company_name
+Denver,2023-10-23,2023-11-09,1373.00,80.76,Motorhome Standard C25,Cruise
+Denver,2023-10-23,2023-11-09,1402.00,82.47,Motorhome Standard C25,Cruise
+Denver,2023-10-23,2023-11-09,1404.00,82.59,Motorhome C19,Cruise
+Denver,2023-10-23,2023-11-09,1433.00,84.29,Motorhome C19,Cruise
+Denver,2023-10-23,2023-11-09,1460.00,85.88,Motorhome Large C30,Cruise
+Denver,2023-10-23,2023-11-09,1489.00,87.59,Motorhome Large C30,Cruise
+Denver,2023-10-23,2023-11-09,1729.00,101.71,Motorhome Compact Plus C21,Cruise
+Denver,2023-10-23,2023-11-09,1751.00,103.00,Motorhome C25,Road Bear
+Denver,2023-10-23,2023-11-09,1757.00,103.35,Motorhome Compact Plus C21,Cruise
+Denver,2023-10-23,2023-11-09,1761.00,103.59,Motorhome Standard C25,Cruise
+Denver,2023-10-23,2023-11-09,1792.00,105.41,Motorhome C19,Cruise
+Denver,2023-10-23,2023-11-09,1802.00,106.00,Campervan B21,Road Bear
+Denver,2023-10-23,2023-11-09,1842.00,108.35,C SMALL 21-23,El Monte
+Denver,2023-10-23,2023-11-09,1849.00,108.76,Motorhome Large C30,Cruise
+Denver,2023-10-23,2023-11-09,1875.00,110.29,C MEDIUM 24-26,El Monte
+Denver,2023-10-23,2023-11-09,1882.00,110.71,C LAGE 27-29,El Monte
+Denver,2023-10-23,2023-11-09,2006.00,118.00,Motorhome C28,Road Bear
+Denver,2023-10-23,2023-11-09,2124.00,124.94,Motorhome Compact Plus C21,Cruise
+Denver,2023-10-23,2023-11-09,2182.00,128.35,C SMALL 21-23,El Monte
+Denver,2023-10-23,2023-11-09,2216.00,130.35,C MEDIUM 24-26,El Monte
+Denver,2023-10-23,2023-11-09,2222.00,130.71,C LAGE 27-29,El Monte
+Denver,2023-10-23,2023-11-09,2244.00,132.00,Motorhome C31,Road Bear
+Denver,2023-10-23,2023-11-09,2340.00,137.65,Motorhome Standard C25,Cruise
+Denver,2023-10-23,2023-11-09,2371.00,139.47,Motorhome C19,Cruise
+Denver,2023-10-23,2023-11-09,2378.00,139.88,Motorhome Standard C25,Cruise
+Denver,2023-10-23,2023-11-09,2407.00,141.59,Motorhome Standard C25,Cruise
+Denver,2023-10-23,2023-11-09,2409.00,141.71,Motorhome C19,Cruise
+Denver,2023-10-23,2023-11-09,2428.00,142.82,Motorhome Large C30,Cruise
+Denver,2023-10-23,2023-11-09,2438.00,143.41,Motorhome C19,Cruise
+Denver,2023-10-23,2023-11-09,2465.00,145.00,Motorhome Large C30,Cruise
+Denver,2023-10-23,2023-11-09,2494.00,146.71,Motorhome Large C30,Cruise
+Denver,2023-10-23,2023-11-09,2550.00,150.00,C FAMILY 30-32,El Monte
+Denver,2023-10-23,2023-11-09,2703.00,159.00,Motorhome Compact Plus C21,Cruise
+Denver,2023-10-23,2023-11-09,2710.00,159.41,Motorhome Standard C25,Cruise
+Denver,2023-10-23,2023-11-09,2734.00,160.82,Motorhome Compact Plus C21,Cruise
+Denver,2023-10-23,2023-11-09,2741.00,161.24,Motorhome C19,Cruise
+Denver,2023-10-23,2023-11-09,2762.00,162.47,Motorhome Compact Plus C21,Cruise
+Denver,2023-10-23,2023-11-09,2784.00,163.76,A FAMILY 31-34,El Monte
+Denver,2023-10-23,2023-11-09,2797.00,164.53,Motorhome Large C30,Cruise
+Denver,2023-10-23,2023-11-09,2890.00,170.00,C FAMILY 30-32,El Monte
+Denver,2023-10-23,2023-11-09,2907.00,171.00,Run of Fleet 20-29ft 2+2,Britz
+Denver,2023-10-23,2023-11-09,2913.00,171.35,C SMALL 21-23,El Monte
+Denver,2023-10-23,2023-11-09,2947.00,173.35,C MEDIUM 24-26,El Monte
+Denver,2023-10-23,2023-11-09,2951.00,173.59,Motorhome Standard C25,Cruise
+Denver,2023-10-23,2023-11-09,2953.00,173.71,C LAGE 27-29,El Monte
+Denver,2023-10-23,2023-11-09,2983.00,175.47,Motorhome C19,Cruise
+Denver,2023-10-23,2023-11-09,3042.00,178.94,Motorhome Large C30,Cruise
+Denver,2023-10-23,2023-11-09,3065.00,180.29,Motorhome Compact Plus C21,Cruise
+Denver,2023-10-23,2023-11-09,3131.00,184.18,A FAMILY 31-34,El Monte
+Denver,2023-10-23,2023-11-09,3323.00,195.47,Motorhome Compact Plus C21,Cruise
+Denver,2023-10-23,2023-11-09,3338.00,196.35,C SMALL 21-23,El Monte
+Denver,2023-10-23,2023-11-09,3372.00,198.35,C MEDIUM 24-26,El Monte
+Denver,2023-10-23,2023-11-09,3378.00,198.71,C LAGE 27-29,El Monte
+Denver,2023-10-23,2023-11-09,3468.00,204.00,Motorhome A32,Road Bear
+Denver,2023-10-23,2023-11-09,3587.00,211.00,Motorhome C25,Road Bear
+Denver,2023-10-23,2023-11-09,3621.00,213.00,C FAMILY 30-32,El Monte
+Denver,2023-10-23,2023-11-09,3638.00,214.00,Campervan B21,Road Bear
+Denver,2023-10-23,2023-11-09,3842.00,226.00,Motorhome C28,Road Bear
+Denver,2023-10-23,2023-11-09,3862.00,227.18,A FAMILY 31-34,El Monte
+Denver,2023-10-23,2023-11-09,4046.00,238.00,C FAMILY 30-32,El Monte
+Denver,2023-10-23,2023-11-09,4080.00,240.00,Motorhome C31,Road Bear
+Denver,2023-10-23,2023-11-09,4287.00,252.18,A FAMILY 31-34,El Monte
+Denver,2023-10-23,2023-11-09,5304.00,312.00,Motorhome A32,Road Bear

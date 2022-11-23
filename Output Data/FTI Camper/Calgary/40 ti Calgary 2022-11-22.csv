@@ -1,0 +1,108 @@
+city,start_date,end_date,total_price,daily_price,vehicle_class,company_name
+Calgary,2023-09-18,2023-10-05,1454.00,85.53,Motorhome Large C30,Cruise
+Calgary,2023-09-18,2023-10-05,1483.00,87.24,Motorhome Large C30,Cruise
+Calgary,2023-09-18,2023-10-05,1568.00,92.24,Motorhome Standard C25,Cruise
+Calgary,2023-09-18,2023-10-05,1582.00,93.06,Motorhome C19,Cruise
+Calgary,2023-09-18,2023-10-05,1590.00,93.53,Motorhome Compact Plus C21,Cruise
+Calgary,2023-09-18,2023-10-05,1597.00,93.94,Motorhome Standard C25,Cruise
+Calgary,2023-09-18,2023-10-05,1611.00,94.76,Motorhome C19,Cruise
+Calgary,2023-09-18,2023-10-05,1619.00,95.24,Motorhome Compact Plus C21,Cruise
+Calgary,2023-09-18,2023-10-05,1627.00,95.71,Motorhome C-Small MH19,Four Seasons
+Calgary,2023-09-18,2023-10-05,1645.00,96.76,Van Conversion,Four Seasons
+Calgary,2023-09-18,2023-10-05,1667.00,98.06,Run of Fleet,Four Seasons
+Calgary,2023-09-18,2023-10-05,1774.00,104.35,Motorhome C-Medium MH22,Four Seasons
+Calgary,2023-09-18,2023-10-05,1775.00,104.41,Motorhome C-Small MH19,Fraserway
+Calgary,2023-09-18,2023-10-05,1841.00,108.29,Motorhome C-Large M25S,Four Seasons
+Calgary,2023-09-18,2023-10-05,1868.00,109.88,Saver 2,Canadream
+Calgary,2023-09-18,2023-10-05,1868.00,109.88,Saver 2,Canadream
+Calgary,2023-09-18,2023-10-05,1868.00,109.88,Saver 2,Canadream
+Calgary,2023-09-18,2023-10-05,1905.00,112.06,Maxi Truck Camper,Canadream
+Calgary,2023-09-18,2023-10-05,1905.00,112.06,Maxi Truck Camper,Canadream
+Calgary,2023-09-18,2023-10-05,1905.00,112.06,Maxi Truck Camper,Canadream
+Calgary,2023-09-18,2023-10-05,1915.00,112.65,Motorhome C-Small MH19,Four Seasons
+Calgary,2023-09-18,2023-10-05,1917.00,112.76,Motorhome Large C30,Cruise
+Calgary,2023-09-18,2023-10-05,1921.00,113.00,Motorhome C-XLarge M31S,Four Seasons
+Calgary,2023-09-18,2023-10-05,1938.00,114.00,Motorhome C-Medium MH22,Fraserway
+Calgary,2023-09-18,2023-10-05,1960.00,115.29,Van Conversion,Four Seasons
+Calgary,2023-09-18,2023-10-05,1964.00,115.53,Run of Fleet,Four Seasons
+Calgary,2023-09-18,2023-10-05,2013.00,118.41,Motorhome C-Large Slide-out M25S,Fraserway
+Calgary,2023-09-18,2023-10-05,2034.00,119.65,Motorhome Standard C25,Cruise
+Calgary,2023-09-18,2023-10-05,2048.00,120.47,Motorhome C19,Cruise
+Calgary,2023-09-18,2023-10-05,2056.00,120.94,Motorhome Compact Plus C21,Cruise
+Calgary,2023-09-18,2023-10-05,2089.00,122.88,Motorhome C-Medium MH22,Four Seasons
+Calgary,2023-09-18,2023-10-05,2090.00,122.94,Deluxe Van Camper,Canadream
+Calgary,2023-09-18,2023-10-05,2090.00,122.94,Deluxe Van Camper,Canadream
+Calgary,2023-09-18,2023-10-05,2090.00,122.94,Deluxe Van Camper,Canadream
+Calgary,2023-09-18,2023-10-05,2099.00,123.47,Motorhome C-Small MH19,Fraserway
+Calgary,2023-09-18,2023-10-05,2102.00,123.65,Motorhome C-XLarge Slide-out M31S,Fraserway
+Calgary,2023-09-18,2023-10-05,2131.00,125.35,Saver 4,Canadream
+Calgary,2023-09-18,2023-10-05,2131.00,125.35,Saver 4,Canadream
+Calgary,2023-09-18,2023-10-05,2131.00,125.35,Saver 4,Canadream
+Calgary,2023-09-18,2023-10-05,2144.00,126.12,Van Conversion,Fraserway
+Calgary,2023-09-18,2023-10-05,2174.00,127.88,Super Van Camper,Canadream
+Calgary,2023-09-18,2023-10-05,2174.00,127.88,Super Van Camper,Canadream
+Calgary,2023-09-18,2023-10-05,2174.00,127.88,Super Van Camper,Canadream
+Calgary,2023-09-18,2023-10-05,2192.00,128.94,Motorhome C-Large M25S,Four Seasons
+Calgary,2023-09-18,2023-10-05,2216.00,130.35,Truck Camper TC,Fraserway
+Calgary,2023-09-18,2023-10-05,2280.00,134.12,Saver 6,Canadream
+Calgary,2023-09-18,2023-10-05,2280.00,134.12,Saver 6,Canadream
+Calgary,2023-09-18,2023-10-05,2280.00,134.12,Saver 6,Canadream
+Calgary,2023-09-18,2023-10-05,2280.00,134.12,Motorhome C-Medium MH22,Fraserway
+Calgary,2023-09-18,2023-10-05,2335.00,137.35,Motorhome C-XLarge M31S,Four Seasons
+Calgary,2023-09-18,2023-10-05,2342.00,137.76,Midi Motorhome,Canadream
+Calgary,2023-09-18,2023-10-05,2342.00,137.76,Midi Motorhome,Canadream
+Calgary,2023-09-18,2023-10-05,2342.00,137.76,Midi Motorhome,Canadream
+Calgary,2023-09-18,2023-10-05,2363.00,139.00,Motorhome Large C30,Cruise
+Calgary,2023-09-18,2023-10-05,2391.00,140.65,Truck Camper Slide-out TCB,Fraserway
+Calgary,2023-09-18,2023-10-05,2392.00,140.71,Motorhome Large C30,Cruise
+Calgary,2023-09-18,2023-10-05,2400.00,141.18,Motorhome C-Large Slide-out M25S,Fraserway
+Calgary,2023-09-18,2023-10-05,2429.00,142.88,Motorhome Large C30,Cruise
+Calgary,2023-09-18,2023-10-05,2459.00,144.65,Maxi Motorhome,Canadream
+Calgary,2023-09-18,2023-10-05,2459.00,144.65,Maxi Motorhome,Canadream
+Calgary,2023-09-18,2023-10-05,2459.00,144.65,Maxi Motorhome,Canadream
+Calgary,2023-09-18,2023-10-05,2477.00,145.71,Motorhome Standard C25,Cruise
+Calgary,2023-09-18,2023-10-05,2491.00,146.53,Motorhome C19,Cruise
+Calgary,2023-09-18,2023-10-05,2499.00,147.00,Motorhome Compact Plus C21,Cruise
+Calgary,2023-09-18,2023-10-05,2506.00,147.41,Motorhome Standard C25,Cruise
+Calgary,2023-09-18,2023-10-05,2511.00,147.71,Motorhome C-Small MH19,Four Seasons
+Calgary,2023-09-18,2023-10-05,2520.00,148.24,Motorhome C19,Cruise
+Calgary,2023-09-18,2023-10-05,2528.00,148.71,Motorhome Compact Plus C21,Cruise
+Calgary,2023-09-18,2023-10-05,2529.00,148.76,Van Conversion,Four Seasons
+Calgary,2023-09-18,2023-10-05,2546.00,149.76,Motorhome Standard C25,Cruise
+Calgary,2023-09-18,2023-10-05,2551.00,150.06,Run of Fleet,Four Seasons
+Calgary,2023-09-18,2023-10-05,2560.00,150.59,Motorhome C19,Cruise
+Calgary,2023-09-18,2023-10-05,2561.00,150.65,Motorhome C-XLarge Slide-out M31S,Fraserway
+Calgary,2023-09-18,2023-10-05,2568.00,151.06,Motorhome Compact Plus C21,Cruise
+Calgary,2023-09-18,2023-10-05,2574.00,151.41,Maxi Plus Motorhome,Canadream
+Calgary,2023-09-18,2023-10-05,2574.00,151.41,Maxi Plus Motorhome,Canadream
+Calgary,2023-09-18,2023-10-05,2574.00,151.41,Maxi Plus Motorhome,Canadream
+Calgary,2023-09-18,2023-10-05,2631.00,154.76,Motorhome Large C30,Cruise
+Calgary,2023-09-18,2023-10-05,2658.00,156.35,Motorhome C-Medium MH22,Four Seasons
+Calgary,2023-09-18,2023-10-05,2725.00,160.29,Motorhome C-Large M25S,Four Seasons
+Calgary,2023-09-18,2023-10-05,2733.00,160.76,Motorhome Large C30,Cruise
+Calgary,2023-09-18,2023-10-05,2745.00,161.47,Motorhome Standard C25,Cruise
+Calgary,2023-09-18,2023-10-05,2759.00,162.29,Motorhome C19,Cruise
+Calgary,2023-09-18,2023-10-05,2767.00,162.76,Motorhome Compact Plus C21,Cruise
+Calgary,2023-09-18,2023-10-05,2799.00,164.65,Motorhome C-Small MH19,Four Seasons
+Calgary,2023-09-18,2023-10-05,2805.00,165.00,Motorhome C-XLarge M31S,Four Seasons
+Calgary,2023-09-18,2023-10-05,2844.00,167.29,Van Conversion,Four Seasons
+Calgary,2023-09-18,2023-10-05,2848.00,167.53,Run of Fleet,Four Seasons
+Calgary,2023-09-18,2023-10-05,2852.00,167.76,Motorhome Standard C25,Cruise
+Calgary,2023-09-18,2023-10-05,2867.00,168.65,Motorhome C19,Cruise
+Calgary,2023-09-18,2023-10-05,2875.00,169.12,Motorhome Compact Plus C21,Cruise
+Calgary,2023-09-18,2023-10-05,2897.00,170.41,Motorhome C-Small MH19,Fraserway
+Calgary,2023-09-18,2023-10-05,2973.00,174.88,Motorhome C-Medium MH22,Four Seasons
+Calgary,2023-09-18,2023-10-05,3060.00,180.00,Motorhome C-Medium MH22,Fraserway
+Calgary,2023-09-18,2023-10-05,3076.00,180.94,Motorhome C-Large M25S,Four Seasons
+Calgary,2023-09-18,2023-10-05,3135.00,184.41,Motorhome C-Large Slide-out M25S,Fraserway
+Calgary,2023-09-18,2023-10-05,3219.00,189.35,Motorhome C-XLarge M31S,Four Seasons
+Calgary,2023-09-18,2023-10-05,3221.00,189.47,Motorhome C-Small MH19,Fraserway
+Calgary,2023-09-18,2023-10-05,3224.00,189.65,Motorhome C-XLarge Slide-out M31S,Fraserway
+Calgary,2023-09-18,2023-10-05,3266.00,192.12,Van Conversion,Fraserway
+Calgary,2023-09-18,2023-10-05,3338.00,196.35,Truck Camper TC,Fraserway
+Calgary,2023-09-18,2023-10-05,3402.00,200.12,Motorhome C-Medium MH22,Fraserway
+Calgary,2023-09-18,2023-10-05,3506.00,206.24,A30ft Motorhome behindertengerecht,Fraserway
+Calgary,2023-09-18,2023-10-05,3513.00,206.65,Truck Camper Slide-out TCB,Fraserway
+Calgary,2023-09-18,2023-10-05,3522.00,207.18,Motorhome C-Large Slide-out M25S,Fraserway
+Calgary,2023-09-18,2023-10-05,3683.00,216.65,Motorhome C-XLarge Slide-out M31S,Fraserway
+Calgary,2023-09-18,2023-10-05,4628.00,272.24,A30ft Motorhome behindertengerecht,Fraserway

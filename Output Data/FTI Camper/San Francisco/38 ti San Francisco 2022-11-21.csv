@@ -1,0 +1,6 @@
+city,start_date,end_date,total_price,daily_price,vehicle_class,company_name
+San Francisco,2023-09-05,2023-09-21,1833.00,114.56,Station Wagon,Travellers Autobarn
+San Francisco,2023-09-05,2023-09-21,2180.00,136.25,Motorhome Standard C25,Cruise
+San Francisco,2023-09-05,2023-09-21,2207.00,137.94,Motorhome Standard C25,Cruise
+San Francisco,2023-09-05,2023-09-21,2339.00,146.19,Motorhome Large C30,Cruise
+San Francisco,2023-09-05,2023-09-21,2366.00,147.88,Motorhome Large C30,Cruise

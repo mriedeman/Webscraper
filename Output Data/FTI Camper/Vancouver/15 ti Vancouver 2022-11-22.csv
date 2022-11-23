@@ -1,0 +1,42 @@
+city,start_date,end_date,total_price,daily_price,vehicle_class,company_name
+Vancouver,2023-03-27,2023-04-13,856.00,50.35,Motorhome C19,Cruise
+Vancouver,2023-03-27,2023-04-13,890.00,52.35,Motorhome C19,Cruise
+Vancouver,2023-03-27,2023-04-13,984.00,57.88,Motorhome Standard C25,Cruise
+Vancouver,2023-03-27,2023-04-13,1018.00,59.88,Motorhome Standard C25,Cruise
+Vancouver,2023-03-27,2023-04-13,1052.00,61.88,Motorhome Compact Plus C21,Cruise
+Vancouver,2023-03-27,2023-04-13,1052.00,61.88,Motorhome Large C30,Cruise
+Vancouver,2023-03-27,2023-04-13,1086.00,63.88,Motorhome Compact Plus C21,Cruise
+Vancouver,2023-03-27,2023-04-13,1086.00,63.88,Motorhome Large C30,Cruise
+Vancouver,2023-03-27,2023-04-13,1383.00,81.35,Motorhome C19,Cruise
+Vancouver,2023-03-27,2023-04-13,1511.00,88.88,Motorhome Standard C25,Cruise
+Vancouver,2023-03-27,2023-04-13,1579.00,92.88,Motorhome Compact Plus C21,Cruise
+Vancouver,2023-03-27,2023-04-13,1579.00,92.88,Motorhome Large C30,Cruise
+Vancouver,2023-03-27,2023-04-13,1711.00,100.65,Motorhome C19,Cruise
+Vancouver,2023-03-27,2023-04-13,1745.00,102.65,Motorhome C19,Cruise
+Vancouver,2023-03-27,2023-04-13,1839.00,108.18,Motorhome Standard C25,Cruise
+Vancouver,2023-03-27,2023-04-13,1865.00,109.71,Motorhome C19,Cruise
+Vancouver,2023-03-27,2023-04-13,1873.00,110.18,Motorhome Standard C25,Cruise
+Vancouver,2023-03-27,2023-04-13,1907.00,112.18,Motorhome Compact Plus C21,Cruise
+Vancouver,2023-03-27,2023-04-13,1907.00,112.18,Motorhome Large C30,Cruise
+Vancouver,2023-03-27,2023-04-13,1941.00,114.18,Motorhome Compact Plus C21,Cruise
+Vancouver,2023-03-27,2023-04-13,1941.00,114.18,Motorhome Large C30,Cruise
+Vancouver,2023-03-27,2023-04-13,1970.00,115.88,Motorhome C19,Cruise
+Vancouver,2023-03-27,2023-04-13,1993.00,117.24,Motorhome Standard C25,Cruise
+Vancouver,2023-03-27,2023-04-13,2061.00,121.24,Motorhome Compact Plus C21,Cruise
+Vancouver,2023-03-27,2023-04-13,2061.00,121.24,Motorhome Large C30,Cruise
+Vancouver,2023-03-27,2023-04-13,2098.00,123.41,Motorhome Standard C25,Cruise
+Vancouver,2023-03-27,2023-04-13,2128.00,125.18,Maxi Motorhome,Canadream
+Vancouver,2023-03-27,2023-04-13,2166.00,127.41,Motorhome Compact Plus C21,Cruise
+Vancouver,2023-03-27,2023-04-13,2166.00,127.41,Motorhome Large C30,Cruise
+Vancouver,2023-03-27,2023-04-13,2301.00,135.35,Motorhome C19,Cruise
+Vancouver,2023-03-27,2023-04-13,2429.00,142.88,Motorhome Standard C25,Cruise
+Vancouver,2023-03-27,2023-04-13,2497.00,146.88,Motorhome Compact Plus C21,Cruise
+Vancouver,2023-03-27,2023-04-13,2497.00,146.88,Motorhome Large C30,Cruise
+Vancouver,2023-03-27,2023-04-13,12393.00,729.00,Motorhome C-Small MH19,Fraserway
+Vancouver,2023-03-27,2023-04-13,12428.00,731.06,Motorhome C-Medium MH22,Fraserway
+Vancouver,2023-03-27,2023-04-13,12468.00,733.41,Motorhome C-Large Slide-out M25S,Fraserway
+Vancouver,2023-03-27,2023-04-13,12488.00,734.59,Motorhome C-XLarge Slide-out M31S,Fraserway
+Vancouver,2023-03-27,2023-04-13,12743.00,749.59,Motorhome C-Small MH19,Fraserway
+Vancouver,2023-03-27,2023-04-13,12778.00,751.65,Motorhome C-Medium MH22,Fraserway
+Vancouver,2023-03-27,2023-04-13,12818.00,754.00,Motorhome C-Large Slide-out M25S,Fraserway
+Vancouver,2023-03-27,2023-04-13,12838.00,755.18,Motorhome C-XLarge Slide-out M31S,Fraserway

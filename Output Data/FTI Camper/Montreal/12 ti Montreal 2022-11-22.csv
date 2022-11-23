@@ -1,0 +1,6 @@
+city,start_date,end_date,total_price,daily_price,vehicle_class,company_name
+Montreal,2023-03-06,2023-03-23,1224.00,72.00,Motorhome C19,Cruise
+Montreal,2023-03-06,2023-03-23,1258.00,74.00,Motorhome C19,Cruise
+Montreal,2023-03-06,2023-03-23,1292.00,76.00,Motorhome Standard C25,Cruise
+Montreal,2023-03-06,2023-03-23,1326.00,78.00,Motorhome Standard C25,Cruise
+Montreal,2023-03-06,2023-03-23,1343.00,79.00,Motorhome Compact Plus C21,Cruise

@@ -1,0 +1,51 @@
+city,start_date,end_date,total_price,daily_price,vehicle_class,company_name
+Montreal,2023-09-11,2023-09-28,1932.00,113.65,Motorhome Standard C25,Cruise
+Montreal,2023-09-11,2023-09-28,1961.00,115.35,Motorhome Standard C25,Cruise
+Montreal,2023-09-11,2023-09-28,1998.00,117.53,Motorhome C19,Cruise
+Montreal,2023-09-11,2023-09-28,2027.00,119.24,Motorhome C19,Cruise
+Montreal,2023-09-11,2023-09-28,2103.00,123.71,Motorhome Compact Plus C21,Cruise
+Montreal,2023-09-11,2023-09-28,2131.00,125.35,Motorhome Compact Plus C21,Cruise
+Montreal,2023-09-11,2023-09-28,2133.00,125.47,Motorhome Large C30,Cruise
+Montreal,2023-09-11,2023-09-28,2162.00,127.18,Motorhome Large C30,Cruise
+Montreal,2023-09-11,2023-09-28,2231.00,131.24,Saver 2,Canadream
+Montreal,2023-09-11,2023-09-28,2231.00,131.24,Saver 2,Canadream
+Montreal,2023-09-11,2023-09-28,2292.00,134.82,Maxi Truck Camper,Canadream
+Montreal,2023-09-11,2023-09-28,2292.00,134.82,Maxi Truck Camper,Canadream
+Montreal,2023-09-11,2023-09-28,2436.00,143.29,Motorhome Standard C25,Cruise
+Montreal,2023-09-11,2023-09-28,2503.00,147.24,Motorhome C19,Cruise
+Montreal,2023-09-11,2023-09-28,2525.00,148.53,Deluxe Van Camper,Canadream
+Montreal,2023-09-11,2023-09-28,2525.00,148.53,Deluxe Van Camper,Canadream
+Montreal,2023-09-11,2023-09-28,2586.00,152.12,Saver 4,Canadream
+Montreal,2023-09-11,2023-09-28,2586.00,152.12,Saver 4,Canadream
+Montreal,2023-09-11,2023-09-28,2610.00,153.53,Motorhome Compact Plus C21,Cruise
+Montreal,2023-09-11,2023-09-28,2642.00,155.41,Motorhome Large C30,Cruise
+Montreal,2023-09-11,2023-09-28,2656.00,156.24,Super Van Camper,Canadream
+Montreal,2023-09-11,2023-09-28,2656.00,156.24,Super Van Camper,Canadream
+Montreal,2023-09-11,2023-09-28,2718.00,159.88,Saver 6,Canadream
+Montreal,2023-09-11,2023-09-28,2718.00,159.88,Saver 6,Canadream
+Montreal,2023-09-11,2023-09-28,2779.00,163.47,Midi Motorhome,Canadream
+Montreal,2023-09-11,2023-09-28,2779.00,163.47,Midi Motorhome,Canadream
+Montreal,2023-09-11,2023-09-28,2841.00,167.12,Motorhome Standard C25,Cruise
+Montreal,2023-09-11,2023-09-28,2870.00,168.82,Motorhome Standard C25,Cruise
+Montreal,2023-09-11,2023-09-28,2907.00,171.00,Motorhome C19,Cruise
+Montreal,2023-09-11,2023-09-28,2920.00,171.76,Maxi Motorhome,Canadream
+Montreal,2023-09-11,2023-09-28,2920.00,171.76,Maxi Motorhome,Canadream
+Montreal,2023-09-11,2023-09-28,2936.00,172.71,Motorhome C19,Cruise
+Montreal,2023-09-11,2023-09-28,2948.00,173.41,Motorhome Standard C25,Cruise
+Montreal,2023-09-11,2023-09-28,3012.00,177.18,Motorhome Compact Plus C21,Cruise
+Montreal,2023-09-11,2023-09-28,3015.00,177.35,Motorhome C19,Cruise
+Montreal,2023-09-11,2023-09-28,3040.00,178.82,Motorhome Compact Plus C21,Cruise
+Montreal,2023-09-11,2023-09-28,3042.00,178.94,Motorhome Large C30,Cruise
+Montreal,2023-09-11,2023-09-28,3055.00,179.71,Maxi Plus Motorhome,Canadream
+Montreal,2023-09-11,2023-09-28,3055.00,179.71,Maxi Plus Motorhome,Canadream
+Montreal,2023-09-11,2023-09-28,3071.00,180.65,Motorhome Large C30,Cruise
+Montreal,2023-09-11,2023-09-28,3109.00,182.88,Motorhome Standard C25,Cruise
+Montreal,2023-09-11,2023-09-28,3122.00,183.65,Motorhome Compact Plus C21,Cruise
+Montreal,2023-09-11,2023-09-28,3154.00,185.53,Motorhome Large C30,Cruise
+Montreal,2023-09-11,2023-09-28,3175.00,186.76,Motorhome C19,Cruise
+Montreal,2023-09-11,2023-09-28,3279.00,192.88,Motorhome Compact Plus C21,Cruise
+Montreal,2023-09-11,2023-09-28,3309.00,194.65,Motorhome Standard C25,Cruise
+Montreal,2023-09-11,2023-09-28,3310.00,194.71,Motorhome Large C30,Cruise
+Montreal,2023-09-11,2023-09-28,3378.00,198.71,Motorhome C19,Cruise
+Montreal,2023-09-11,2023-09-28,3488.00,205.18,Motorhome Compact Plus C21,Cruise
+Montreal,2023-09-11,2023-09-28,3520.00,207.06,Motorhome Large C30,Cruise

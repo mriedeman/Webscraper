@@ -1,0 +1,6 @@
+city,start_date,end_date,total_price,daily_price,vehicle_class,company_name
+Vancouver,2024-01-02,2024-01-18,1061.00,66.31,Motorhome C19,Cruise
+Vancouver,2024-01-02,2024-01-18,1088.00,68.00,Motorhome C19,Cruise
+Vancouver,2024-01-02,2024-01-18,1129.00,70.56,Motorhome Standard C25,Cruise
+Vancouver,2024-01-02,2024-01-18,1156.00,72.25,Motorhome Standard C25,Cruise
+Vancouver,2024-01-02,2024-01-18,1197.00,74.81,Motorhome Compact Plus C21,Cruise

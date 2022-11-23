@@ -1,0 +1,70 @@
+city,start_date,end_date,total_price,daily_price,vehicle_class,company_name
+Orlando,2023-12-26,2024-01-11,1877.00,117.31,Motorhome C19,Cruise
+Orlando,2023-12-26,2024-01-11,1904.00,119.00,Motorhome C19,Cruise
+Orlando,2023-12-26,2024-01-11,2013.00,125.81,C MEDIUM 24-26,Mighty
+Orlando,2023-12-26,2024-01-11,2040.00,127.50,C LAGE 27-29,Mighty
+Orlando,2023-12-26,2024-01-11,2081.00,130.06,C SMALL 21-23,El Monte
+Orlando,2023-12-26,2024-01-11,2108.00,131.75,C MEDIUM 24-26,El Monte
+Orlando,2023-12-26,2024-01-11,2197.00,137.31,C LAGE 27-29,El Monte
+Orlando,2023-12-26,2024-01-11,2217.00,138.56,Motorhome Compact Plus C21,Cruise
+Orlando,2023-12-26,2024-01-11,2244.00,140.25,Motorhome Compact Plus C21,Cruise
+Orlando,2023-12-26,2024-01-11,2256.00,141.00,Motorhome C19,Cruise
+Orlando,2023-12-26,2024-01-11,2299.00,143.69,Motorhome Standard C25,Cruise
+Orlando,2023-12-26,2024-01-11,2326.00,145.38,Motorhome Standard C25,Cruise
+Orlando,2023-12-26,2024-01-11,2340.00,146.25,C MEDIUM 24-26,Mighty
+Orlando,2023-12-26,2024-01-11,2367.00,147.94,C LAGE 27-29,Mighty
+Orlando,2023-12-26,2024-01-11,2408.00,150.50,C SMALL 21-23,El Monte
+Orlando,2023-12-26,2024-01-11,2428.00,151.75,C MEDIUM 24-26,El Monte
+Orlando,2023-12-26,2024-01-11,2476.00,154.75,Motorhome Large C30,Cruise
+Orlando,2023-12-26,2024-01-11,2486.00,155.38,Motorhome C25,Road Bear
+Orlando,2023-12-26,2024-01-11,2502.00,156.38,Campervan B21,Road Bear
+Orlando,2023-12-26,2024-01-11,2503.00,156.44,Motorhome Large C30,Cruise
+Orlando,2023-12-26,2024-01-11,2516.00,157.25,C LAGE 27-29,El Monte
+Orlando,2023-12-26,2024-01-11,2540.00,158.75,Motorhome C28,Road Bear
+Orlando,2023-12-26,2024-01-11,2604.00,162.75,Motorhome Compact Plus C21,Cruise
+Orlando,2023-12-26,2024-01-11,2610.00,163.13,Motorhome C31,Road Bear
+Orlando,2023-12-26,2024-01-11,2687.00,167.94,Motorhome Standard C25,Cruise
+Orlando,2023-12-26,2024-01-11,2835.00,177.19,Motorhome C19,Cruise
+Orlando,2023-12-26,2024-01-11,2868.00,179.25,Motorhome Large C30,Cruise
+Orlando,2023-12-26,2024-01-11,2882.00,180.13,Motorhome C19,Cruise
+Orlando,2023-12-26,2024-01-11,2909.00,181.81,Motorhome C19,Cruise
+Orlando,2023-12-26,2024-01-11,3096.00,193.50,C SMALL 21-23,El Monte
+Orlando,2023-12-26,2024-01-11,3116.00,194.75,C MEDIUM 24-26,El Monte
+Orlando,2023-12-26,2024-01-11,3183.00,198.94,Motorhome Compact Plus C21,Cruise
+Orlando,2023-12-26,2024-01-11,3204.00,200.25,C LAGE 27-29,El Monte
+Orlando,2023-12-26,2024-01-11,3212.00,200.75,Motorhome C19,Cruise
+Orlando,2023-12-26,2024-01-11,3222.00,201.38,Motorhome Compact Plus C21,Cruise
+Orlando,2023-12-26,2024-01-11,3249.00,203.06,Motorhome Compact Plus C21,Cruise
+Orlando,2023-12-26,2024-01-11,3266.00,204.13,Motorhome Standard C25,Cruise
+Orlando,2023-12-26,2024-01-11,3304.00,206.50,Motorhome Standard C25,Cruise
+Orlando,2023-12-26,2024-01-11,3331.00,208.19,Motorhome Standard C25,Cruise
+Orlando,2023-12-26,2024-01-11,3390.00,211.88,Motorhome C19,Cruise
+Orlando,2023-12-26,2024-01-11,3428.00,214.25,C MEDIUM 24-26,Mighty
+Orlando,2023-12-26,2024-01-11,3447.00,215.44,Motorhome Large C30,Cruise
+Orlando,2023-12-26,2024-01-11,3455.00,215.94,C LAGE 27-29,Mighty
+Orlando,2023-12-26,2024-01-11,3481.00,217.56,Motorhome Large C30,Cruise
+Orlando,2023-12-26,2024-01-11,3496.00,218.50,C SMALL 21-23,El Monte
+Orlando,2023-12-26,2024-01-11,3508.00,219.25,Motorhome Large C30,Cruise
+Orlando,2023-12-26,2024-01-11,3516.00,219.75,C MEDIUM 24-26,El Monte
+Orlando,2023-12-26,2024-01-11,3552.00,222.00,Motorhome Compact Plus C21,Cruise
+Orlando,2023-12-26,2024-01-11,3564.00,222.75,C FAMILY 30-32,El Monte
+Orlando,2023-12-26,2024-01-11,3604.00,225.25,C LAGE 27-29,El Monte
+Orlando,2023-12-26,2024-01-11,3616.00,226.00,Run of Fleet 20-29ft 2+2,Britz
+Orlando,2023-12-26,2024-01-11,3634.00,227.13,Motorhome Standard C25,Cruise
+Orlando,2023-12-26,2024-01-11,3740.00,233.75,A FAMILY 31-34,El Monte
+Orlando,2023-12-26,2024-01-11,3746.00,234.13,Motorhome Compact Plus C21,Cruise
+Orlando,2023-12-26,2024-01-11,3811.00,238.19,Motorhome Large C30,Cruise
+Orlando,2023-12-26,2024-01-11,3831.00,239.44,Motorhome Standard C25,Cruise
+Orlando,2023-12-26,2024-01-11,3890.00,243.13,C FAMILY 30-32,El Monte
+Orlando,2023-12-26,2024-01-11,4016.00,251.00,Motorhome Large C30,Cruise
+Orlando,2023-12-26,2024-01-11,4032.00,252.00,Motorhome A32,Road Bear
+Orlando,2023-12-26,2024-01-11,4067.00,254.19,A FAMILY 31-34,El Monte
+Orlando,2023-12-26,2024-01-11,4198.00,262.38,Motorhome C25,Road Bear
+Orlando,2023-12-26,2024-01-11,4214.00,263.38,Campervan B21,Road Bear
+Orlando,2023-12-26,2024-01-11,4252.00,265.75,Motorhome C28,Road Bear
+Orlando,2023-12-26,2024-01-11,4322.00,270.13,Motorhome C31,Road Bear
+Orlando,2023-12-26,2024-01-11,4578.00,286.13,C FAMILY 30-32,El Monte
+Orlando,2023-12-26,2024-01-11,4755.00,297.19,A FAMILY 31-34,El Monte
+Orlando,2023-12-26,2024-01-11,4978.00,311.13,C FAMILY 30-32,El Monte
+Orlando,2023-12-26,2024-01-11,5155.00,322.19,A FAMILY 31-34,El Monte
+Orlando,2023-12-26,2024-01-11,5744.00,359.00,Motorhome A32,Road Bear
